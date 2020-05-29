@@ -1,0 +1,65 @@
+<application>
+  <component name="VimEditorSettings">
+    <editor />
+  </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-cmd>
+        <entry>vs</entry>
+        <entry>w</entry>
+      </history-cmd>
+    </history>
+  </component>
+  <component name="VimKeySettings">
+    <shortcut-conflicts />
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Dropbox/TutorialsByMe/Java/Examples2020_JEE/HelloWorld/web/WEB-INF/web.xml" timestamp="1590788443590">
+        <mark key="[" line="5" column="10" />
+        <mark key="]" line="5" column="10" />
+        <mark key="." line="5" column="10" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/TutorialsByMe/Java/Examples2020_JEE/HelloWorld/web/index.jsp" timestamp="1590788755097">
+        <mark key="[" line="10" column="11" />
+        <mark key="]" line="10" column="17" />
+        <mark key="." line="10" column="16" />
+        <mark key="^" line="10" column="17" />
+      </file>
+    </filemarks>
+    <jumps />
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAkRU5EJAo=</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>$Title$</text>
+      </register>
+      <register name="2" type="2">
+        <text>uuu</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+      <register name="-" type="4">
+        <text>$Title$</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+  </component>
+  <component name="VimSettings">
+    <state version="6" enabled="true" />
+    <notifications>
+      <idea-join enabled="false" />
+      <idea-put enabled="false" />
+    </notifications>
+  </component>
+</application>
