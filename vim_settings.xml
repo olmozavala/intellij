@@ -8,6 +8,7 @@
       <history-cmd>
         <entry>vs</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -24,10 +25,16 @@
         <mark key="]" line="5" column="10" />
         <mark key="." line="5" column="10" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TutorialsByMe/Java/Examples2020_JEE/HelloWorld/web/index.jsp" timestamp="1590790303096">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="/JavaScript Console" timestamp="1590790707833">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/TutorialsByMe/Java/Examples2020_JEE/HelloWorld/web/index.jsp" timestamp="1590790725333">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="/" timestamp="1590790708605">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps />
@@ -56,22 +63,22 @@
         <text encoding="base64">ICBWYW1vZSBhIHZlcgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBWYW1vZSBhIHZlcgogIFZhbW9lIGEgdmVyCiAgVmFtb2UgYSB2ZXIK</text>
+        <text encoding="base64">ICBWYW1vZSBhIHZlcgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBWYW1vZSBhIHZlcgogIFZhbW9lIGEgdmVyCiAgVmFtb2UgYSB2ZXIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBObyBlcyB2ZXJkYWQK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICBObyBlcyB2ZXJkYWQK</text>
       </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
   </component>
