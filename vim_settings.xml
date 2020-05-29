@@ -4,10 +4,13 @@
   </component>
   <component name="VimHistorySettings">
     <history>
+      <history-search />
       <history-cmd>
         <entry>vs</entry>
         <entry>w</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
   </component>
   <component name="VimKeySettings">
@@ -21,11 +24,11 @@
         <mark key="]" line="5" column="10" />
         <mark key="." line="5" column="10" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TutorialsByMe/Java/Examples2020_JEE/HelloWorld/web/index.jsp" timestamp="1590788755097">
-        <mark key="[" line="10" column="11" />
-        <mark key="]" line="10" column="17" />
-        <mark key="." line="10" column="16" />
-        <mark key="^" line="10" column="17" />
+      <file name="$USER_HOME$/Dropbox/TutorialsByMe/Java/Examples2020_JEE/HelloWorld/web/index.jsp" timestamp="1590789298609">
+        <mark key="[" line="13" column="13" />
+        <mark key="]" line="15" column="2" />
+        <mark key="." line="15" column="1" />
+        <mark key="^" line="15" column="2" />
       </file>
     </filemarks>
     <jumps />
@@ -33,12 +36,21 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAkRU5EJAo=</text>
+        <text encoding="base64">ICBNZSBjYWdhCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>$Title$</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBNZSBjYWdhCg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICBWYW1vIGEgdmVyIEhlbGxvIFdvcmxkCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBzYWRmCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAkRU5EJAo=</text>
+      </register>
+      <register name="5" type="2">
         <text>uuu</text>
       </register>
       <register name=":" type="4">
