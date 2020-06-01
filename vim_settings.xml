@@ -16,7 +16,11 @@
     </history>
   </component>
   <component name="VimKeySettings">
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
     <globalmarks />
@@ -32,50 +36,57 @@
       <file name="/JavaScript Console" timestamp="1591024978064">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS_V2/web/index.jsp" timestamp="1591025393370">
-        <mark key="[" line="15" column="5" />
-        <mark key="]" line="15" column="10" />
-        <mark key="." line="15" column="9" />
-        <mark key="^" line="15" column="10" />
+      <file name="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS_V2/src/com/mapviewer/business/LayerMenuManagerSingleton.java" timestamp="1591026218120">
+        <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS_V2/src/com/mapviewer/tools/ConvertionTools.java" timestamp="1591026175256" />
       <file name="$USER_HOME$/Dropbox/TutorialsByMe/Java/Examples2020_JEE/HelloWorld/web/index.jsp" timestamp="1591024987629">
         <mark key="[" line="12" column="8" />
         <mark key="]" line="13" column="11" />
         <mark key="." line="13" column="10" />
         <mark key="^" line="13" column="11" />
       </file>
-      <file name="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS_V2_IntelliJ/web/index.html" timestamp="1591024518333" />
+      <file name="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS_V2/web/WEB-INF/web.xml" timestamp="1591026196641">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="/" timestamp="1591024978123">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="8" column="0" filename="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS_V2/web/WEB-INF/web.xml" />
+      <jump line="676" column="39" filename="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS_V2/src/com/mapviewer/business/LayerMenuManagerSingleton.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS_V2/src/com/mapviewer/business/LayerMenuManagerSingleton.java" />
+    </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBWZW5nYQo=</text>
+        <text encoding="base64">ICBxdWUgcGFzYQo=</text>
       </register>
       <register name="-" type="4">
         <text>$Title$</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBWYW1vZSBhIHZlcgo=</text>
+        <text encoding="base64">ICBxdWUgcGFzYQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBWZW5nYQo=</text>
+        <text encoding="base64">ICAxIDIgMwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAkRU5EJAo=</text>
+        <text encoding="base64">ICAxIDIgMwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBWYW1vZSBhIHZlcgo=</text>
+        <text encoding="base64">ICBzaSBvIHNpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBWYW1vZSBhIHZlcgo=</text>
+        <text encoding="base64">ICBWZW5nYQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBWYW1vZSBhIHZlcgo=</text>
+        <text encoding="base64">ICAkRU5EJAo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICBWYW1vZSBhIHZlcgo=</text>
@@ -96,7 +107,10 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-dir>0</last-dir>
+      <last-search encoding="base64">XDxBdHRyaWJ1dGVcPg==</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxBdHRyaWJ1dGVcPg==</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
