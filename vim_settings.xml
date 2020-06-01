@@ -7,8 +7,9 @@
       <history-search />
       <history-cmd>
         <entry>vs</entry>
-        <entry>w</entry>
         <entry>q</entry>
+        <entry>qall</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -31,6 +32,12 @@
       <file name="/JavaScript Console" timestamp="1591024978064">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS_V2/web/index.jsp" timestamp="1591025393370">
+        <mark key="[" line="15" column="5" />
+        <mark key="]" line="15" column="10" />
+        <mark key="." line="15" column="9" />
+        <mark key="^" line="15" column="10" />
+      </file>
       <file name="$USER_HOME$/Dropbox/TutorialsByMe/Java/Examples2020_JEE/HelloWorld/web/index.jsp" timestamp="1591024987629">
         <mark key="[" line="12" column="8" />
         <mark key="]" line="13" column="11" />
@@ -47,7 +54,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBWYW1vZSBhIHZlcgo=</text>
+        <text encoding="base64">ICBWZW5nYQo=</text>
       </register>
       <register name="-" type="4">
         <text>$Title$</text>
@@ -56,10 +63,10 @@
         <text encoding="base64">ICBWYW1vZSBhIHZlcgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBWYW1vZSBhIHZlcgo=</text>
+        <text encoding="base64">ICBWZW5nYQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBWYW1vZSBhIHZlcgo=</text>
+        <text encoding="base64">ICAkRU5EJAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICBWYW1vZSBhIHZlcgo=</text>
@@ -77,13 +84,13 @@
         <text encoding="base64">ICBWYW1vZSBhIHZlcgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBWYW1vZSBhIHZlcgogIFZhbW9lIGEgdmVyCiAgVmFtb2UgYSB2ZXIK</text>
+        <text encoding="base64">ICBWYW1vZSBhIHZlcgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBWYW1vZSBhIHZlcgo=</text>
       </register>
       <register name=":" type="4">
-        <text>qall</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
