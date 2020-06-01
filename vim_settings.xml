@@ -20,18 +20,26 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1591024692995">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Dropbox/TutorialsByMe/Java/Examples2020_JEE/HelloWorld/web/WEB-INF/web.xml" timestamp="1590788443590">
         <mark key="[" line="5" column="10" />
         <mark key="]" line="5" column="10" />
         <mark key="." line="5" column="10" />
       </file>
-      <file name="/JavaScript Console" timestamp="1590791015496">
+      <file name="/JavaScript Console" timestamp="1591024978064">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TutorialsByMe/Java/Examples2020_JEE/HelloWorld/web/index.jsp" timestamp="1590790725333">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/Dropbox/TutorialsByMe/Java/Examples2020_JEE/HelloWorld/web/index.jsp" timestamp="1591024987629">
+        <mark key="[" line="12" column="8" />
+        <mark key="]" line="13" column="11" />
+        <mark key="." line="13" column="10" />
+        <mark key="^" line="13" column="11" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS_V2_IntelliJ/web/index.html" timestamp="1591024518333" />
+      <file name="/" timestamp="1591024978123">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps />
@@ -63,19 +71,19 @@
         <text encoding="base64">ICBWYW1vZSBhIHZlcgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBWYW1vZSBhIHZlcgogIFZhbW9lIGEgdmVyCiAgVmFtb2UgYSB2ZXIK</text>
+        <text encoding="base64">ICBWYW1vZSBhIHZlcgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBWYW1vZSBhIHZlcgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBObyBlcyB2ZXJkYWQK</text>
+        <text encoding="base64">ICBWYW1vZSBhIHZlcgogIFZhbW9lIGEgdmVyCiAgVmFtb2UgYSB2ZXIK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>qall</text>
       </register>
     </registers>
   </component>
