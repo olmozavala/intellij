@@ -41,6 +41,12 @@
       <file name="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS_V2/src/com/mapviewer/business/LayerMenuManagerSingleton.java" timestamp="1591026218120">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/TutorialsByMe/Maven/HelloWebApp/src/main/webapp/index.jsp" timestamp="1591117228861">
+        <mark key="[" line="2" column="17" />
+        <mark key="]" line="2" column="24" />
+        <mark key="^" line="2" column="24" />
+        <mark key="." line="2" column="23" />
+      </file>
       <file name="$USER_HOME$/Dropbox/TutorialsByMe/Maven/Examples_From_Book/ch05-simple-web/simple-webapp/pom.xml" timestamp="1591115913544">
         <mark key="[" line="30" column="25" />
         <mark key="]" line="24" column="11" />
@@ -72,10 +78,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>-jetty-plugin</text>
+        <text>vamos</text>
       </register>
       <register name="-" type="4">
-        <text>-jetty-plugin</text>
+        <text>vamos</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBdHRyaWJ1dGVcPg==</text>
