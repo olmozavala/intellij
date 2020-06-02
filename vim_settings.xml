@@ -41,7 +41,12 @@
       <file name="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS_V2/src/com/mapviewer/business/LayerMenuManagerSingleton.java" timestamp="1591026218120">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TutorialsByMe/Maven/Examples_From_Book/ch04-custom/pom.xml" timestamp="1591114229457" />
+      <file name="$USER_HOME$/Dropbox/TutorialsByMe/Maven/Examples_From_Book/ch05-simple-web/simple-webapp/pom.xml" timestamp="1591115913544">
+        <mark key="[" line="30" column="25" />
+        <mark key="]" line="24" column="11" />
+        <mark key="." line="24" column="10" />
+        <mark key="^" line="24" column="11" />
+      </file>
       <file name="$USER_HOME$/Dropbox/TutorialsByMe/Java/Examples2020_JEE/HelloWorld/web/index.jsp" timestamp="1591024987629">
         <mark key="[" line="12" column="8" />
         <mark key="]" line="13" column="11" />
@@ -66,11 +71,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>-jetty-plugin</text>
       </register>
       <register name="-" type="4">
-        <text>$Title$</text>
+        <text>-jetty-plugin</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBdHRyaWJ1dGVcPg==</text>
@@ -81,29 +86,29 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgIDxsaXN0ZW5lcj4KCTxsaXN0ZW5lci1jbGFzcz5uZXQuYnVsbC5qYXZhbWVsb2R5LlNlc3Npb25MaXN0ZW5lcjwvbGlzdGVuZXItY2xhc3M+CiAgICA8L2xpc3RlbmVyPg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICA8Z3JvdXBJZD5vcmcubW9ydGJheS5qZXR0eTwvZ3JvdXBJZD4K</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">PCEtLSAgICAgICAgPGFydGlmYWN0SWQ+bWF2ZW4tamV0dHktcGx1Z2luPC9hcnRpZmFjdElkPi0tPgo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
+        <text encoding="base64">ICAgIDxsaXN0ZW5lcj4KCTxsaXN0ZW5lci1jbGFzcz5uZXQuYnVsbC5qYXZhbWVsb2R5LlNlc3Npb25MaXN0ZW5lcjwvbGlzdGVuZXItY2xhc3M+CiAgICA8L2xpc3RlbmVyPg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="4">
         <text encoding="base64">ICAgIDxmaWx0ZXItbWFwcGluZz4KCTxmaWx0ZXItbmFtZT5qYXZhbWVsb2R5PC9maWx0ZXItbmFtZT4KCTx1cmwtcGF0dGVybj4vKjwvdXJsLXBhdHRlcm4+Cgk8ZGlzcGF0Y2hlcj5SRVFVRVNUPC9kaXNwYXRjaGVyPgogICAgICAgIDxkaXNwYXRjaGVyPkFTWU5DPC9kaXNwYXRjaGVyPgogICAgPC9maWx0ZXItbWFwcGluZz4=</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="9" type="4">
         <text encoding="base64">ICAgIDxmaWx0ZXI+CiAgICAgICAgPGZpbHRlci1uYW1lPm1vbml0b3Jpbmc8L2ZpbHRlci1uYW1lPgogICAgICAgIDxmaWx0ZXItY2xhc3M+bmV0LmJ1bGwuamF2YW1lbG9keS5Nb25pdG9yaW5nRmlsdGVyPC9maWx0ZXItY2xhc3M+CiAgICAgICAgPGFzeW5jLXN1cHBvcnRlZD50cnVlPC9hc3luYy1zdXBwb3J0ZWQ+CiAgICA8L2ZpbHRlcj4=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAxIDIgMwo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAxIDIgMwo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICBzaSBvIHNpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
