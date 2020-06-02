@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxKU09ORXhjZXB0aW9uXD4=</entry>
         <entry encoding="base64">XDxsYXllckRldGFpbHNcPg==</entry>
         <entry>Attri</entry>
         <entry encoding="base64">XDxIdHRwU2VydmxldFJlcXVlc3RcPg==</entry>
@@ -25,14 +24,15 @@
         <entry>function</entry>
         <entry encoding="base64">XDxmbXRcPg==</entry>
         <entry encoding="base64">XDxjXD4=</entry>
+        <entry>jstl</entry>
       </history-search>
       <history-cmd>
         <entry>%s/com\.mapviewer/org\.owgis/g</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>%s//double/g</entry>
         <entry>qall</entry>
-        <entry>q</entry>
         <entry>vs</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -78,17 +78,12 @@
         <mark key="]" line="13" column="48" />
         <mark key="." line="13" column="48" />
       </file>
-      <file name="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/webapp/Pages/MapViewer.jsp" timestamp="1591135014109">
+      <file name="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/webapp/Pages/MapViewer.jsp" timestamp="1591136363057">
         <mark key="'" line="22" column="40" />
-        <mark key="[" line="13" column="65" />
-        <mark key="]" line="13" column="65" />
-        <mark key="." line="13" column="65" />
-        <mark key="^" line="13" column="64" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/java/com/mapviewer/business/GeneraSolicitudesWCS.java" timestamp="1591121705636">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="30" />
+        <mark key="." line="7" column="3" />
+        <mark key="^" line="7" column="4" />
       </file>
       <file name="$USER_HOME$/Dropbox/TutorialsByMe/Java/JavaExamples/WebProjects/J2EE8_2020/HelloWorld/src/main/webapp/index.jsp" timestamp="1591130022725">
         <mark key="[" line="2" column="0" />
@@ -101,6 +96,12 @@
         <mark key="]" line="7" column="19" />
         <mark key="^" line="5" column="4" />
         <mark key="." line="7" column="19" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/webapp/Pages/Error/ErrorPage.jsp" timestamp="1591136466355">
+        <mark key="[" line="8" column="3" />
+        <mark key="]" line="8" column="4" />
+        <mark key="." line="8" column="3" />
+        <mark key="^" line="8" column="4" />
       </file>
       <file name="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/webapp/index.html" timestamp="1591133922878">
         <mark key="[" line="18" column="35" />
@@ -141,12 +142,12 @@
         <mark key="^" line="2" column="16" />
         <mark key="." line="2" column="23" />
       </file>
-      <file name="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/pom.xml" timestamp="1591135948090">
-        <mark key="'" line="53" column="0" />
-        <mark key="[" line="8" column="11" />
-        <mark key="]" line="8" column="12" />
-        <mark key="^" line="12" column="25" />
-        <mark key="." line="8" column="12" />
+      <file name="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/pom.xml" timestamp="1591136796999">
+        <mark key="'" line="17" column="53" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="^" line="47" column="4" />
+        <mark key="." line="47" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/java/org/owgis/business/servlets/MapViewerServlet.java" timestamp="1591132379641">
         <mark key="'" line="59" column="13" />
@@ -158,7 +159,7 @@
       <file name="/HTML File.txt.ft" timestamp="1591130842757">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/webapp/WEB-INF/web.xml" timestamp="1591133842514">
+      <file name="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/webapp/WEB-INF/web.xml" timestamp="1591136717509">
         <mark key="'" line="9" column="52" />
         <mark key="[" line="34" column="22" />
         <mark key="]" line="34" column="31" />
@@ -223,45 +224,46 @@
       <jump line="33" column="14" filename="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/webapp/Pages/MapViewer.jsp" />
       <jump line="31" column="13" filename="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/webapp/Pages/MapViewer.jsp" />
       <jump line="22" column="40" filename="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/webapp/Pages/MapViewer.jsp" />
+      <jump line="17" column="53" filename="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/pom.xml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ZXhhbXBsZS5jb208</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZXhhbXBsZS5jb208</text>
+        <text>.jsp.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjXD4=</text>
+        <text>jstl</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">PHRhZ2xpYiB4bWxucz0iaHR0cDovL2phdmEuc3VuLmNvbS94bWwvbnMvamF2YWVlIgogICAgeG1sbnM6eHNpPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSIKICAgIHhzaTpzY2hlbWFMb2NhdGlvbj0iaHR0cDovL2phdmEuc3VuLmNvbS94bWwvbnMvamF2YWVlIGh0dHA6Ly9qYXZhLnN1bi5jb20veG1sL25zL2phdmFlZS93ZWItanNwdGFnbGlicmFyeV8yXzEueHNkIgogICAgdmVyc2lvbj0iMi4xIj4=</text>
+      <register name="0" type="2">
+        <text encoding="base64">PCVAcGFnZSBwYWdlRW5jb2Rpbmc9IlVURi04IiU+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICA8IS0tIEZJWE1FIGNoYW5nZSBpdCB0byB0aGUgcHJvamVjdCdzIHdlYnNpdGUgLS0+Cg==</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
-      <register name="2" type="2">
+      <register name="2" type="4">
+        <text encoding="base64">IDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5qYXZheC5zZXJ2bGV0LmpzcC5qc3RsPC9ncm91cElkPgogICAgICA8YXJ0aWZhY3RJZD5qYXZheC5zZXJ2bGV0LmpzcC5qc3RsLWFwaTwvYXJ0aWZhY3RJZD4KICAgICAgPHZlcnNpb24+MS4yLjI8L3ZlcnNpb24+CiAgICA8L2RlcGVuZGVuY3k+</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5qc3RsPC9ncm91cElkPgogICAgICA8YXJ0aWZhY3RJZD5qc3RsPC9hcnRpZmFjdElkPgogICAgICA8dmVyc2lvbj4xLjI8L3ZlcnNpb24+CiAgICA8L2RlcGVuZGVuY3k+</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">PHRhZ2xpYiB2ZXJzaW9uPSIyLjAiIHhtbG5zPSJodHRwOi8vamF2YS5zdW4uY29tL3htbC9ucy9qYXZhZWUiCgkJeG1sbnM6eHNpPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSIKCQl4c2k6c2NoZW1hTG9jYXRpb249Imh0dHA6Ly9qYXZhLnN1bi5jb20veG1sL25zL2oyZWUgd2ViLWpzcHRhZ2xpYnJhcnlfMl8wLnhzZCI+Cg==</text>
+        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5qYXZheC5zZXJ2bGV0LmpzcC5qc3RsPC9ncm91cElkPgogICAgICA8YXJ0aWZhY3RJZD5qYXZheC5zZXJ2bGV0LmpzcC5qc3RsLWFwaTwvYXJ0aWZhY3RJZD4KICAgICAgPHZlcnNpb24+MS4yLjI8L3ZlcnNpb24+CiAgICA8L2RlcGVuZGVuY3k+</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8d2VsY29tZS1maWxlPi9tYXB2aWV3ZXI8L3dlbGNvbWUtZmlsZT4K</text>
+        <text encoding="base64">ICA8IS0tIEZJWE1FIGNoYW5nZSBpdCB0byB0aGUgcHJvamVjdCdzIHdlYnNpdGUgLS0+Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">ICA8c2VydmxldD4KICAgIDxzZXJ2bGV0LW5hbWU+dmFtbzwvc2VydmxldC1uYW1lPgogICAgPHNlcnZsZXQtY2xhc3M+b3JnLmhlbGxvLnZhbW88L3NlcnZsZXQtY2xhc3M+CiAgPC9zZXJ2bGV0Pg==</text>
+        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5qc3RsPC9ncm91cElkPgogICAgICA8YXJ0aWZhY3RJZD5qc3RsPC9hcnRpZmFjdElkPgogICAgICA8dmVyc2lvbj4xLjI8L3ZlcnNpb24+CiAgICA8L2RlcGVuZGVuY3k+</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -273,9 +275,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxjXD4=</last-search>
+      <last-search>jstl</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjXD4=</last-pattern>
+      <last-pattern>jstl</last-pattern>
       <last-replace>double</last-replace>
       <last-substitute encoding="base64">XDxmbG9hdFw+</last-substitute>
       <last-dir>1</last-dir>
