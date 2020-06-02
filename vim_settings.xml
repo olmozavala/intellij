@@ -16,11 +16,11 @@
         <entry>com\.mapviewer</entry>
       </history-search>
       <history-cmd>
-        <entry>q</entry>
         <entry>qall</entry>
         <entry>vs</entry>
         <entry>%s/com\.mapviewer/org\.owgis/g</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -102,9 +102,6 @@
       <file name="/" timestamp="1591113910089">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1591024978064">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/java/com/mapviewer/business/LayerMenuManagerSingleton.java" timestamp="1591121038466">
         <mark key="'" line="17" column="40" />
         <mark key="[" line="40" column="15" />
@@ -142,6 +139,9 @@
         <mark key="]" line="13" column="11" />
         <mark key="." line="13" column="10" />
         <mark key="^" line="13" column="11" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/webapp/Pages/Error/DefaultErrorPage.jsp" timestamp="1591122642396">
+        <mark key="." line="0" column="194" />
       </file>
     </filemarks>
     <jumps>
@@ -212,7 +212,7 @@
         <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5vcmcuamRvbTwvZ3JvdXBJZD4KICAgICAgPGFydGlmYWN0SWQ+amRvbTwvYXJ0aWZhY3RJZD4KICAgICAgPHZlcnNpb24+Mi4wLjI8L3ZlcnNpb24+CiAgICA8L2RlcGVuZGVuY3k+</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
   </component>
@@ -230,7 +230,7 @@
   <component name="VimSettings">
     <state version="6" enabled="true" />
     <notifications>
-      <idea-join enabled="false" />
+      <idea-join enabled="true" />
       <idea-put enabled="false" />
     </notifications>
   </component>
