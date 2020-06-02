@@ -21,10 +21,10 @@
       </history-search>
       <history-cmd>
         <entry>qall</entry>
-        <entry>vs</entry>
         <entry>%s/com\.mapviewer/org\.owgis/g</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>vs</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -145,12 +145,6 @@
         <mark key="." line="6" column="44" />
         <mark key="^" line="6" column="44" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TutorialsByMe/Java/Examples2020_JEE/HelloWorld/web/index.jsp" timestamp="1591024987629">
-        <mark key="[" line="12" column="8" />
-        <mark key="]" line="13" column="11" />
-        <mark key="." line="13" column="10" />
-        <mark key="^" line="13" column="11" />
-      </file>
       <file name="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/webapp/Pages/Error/DefaultErrorPage.jsp" timestamp="1591122642396">
         <mark key="." line="0" column="194" />
       </file>
@@ -226,7 +220,7 @@
         <text encoding="base64">aW1wb3J0IGNvbS5tYXB2aWV3ZXIuY29uZi5PcGVuTGF5ZXJNYXBDb25maWc7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>vs</text>
       </register>
     </registers>
   </component>
