@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>layerdetails</entry>
-        <entry>function</entry>
-        <entry encoding="base64">XDxmbXRcPg==</entry>
         <entry encoding="base64">XDxjXD4=</entry>
         <entry>jstl</entry>
         <entry>layerDetails\.center</entry>
@@ -25,6 +22,9 @@
         <entry encoding="base64">XDxnZXRMYXllclRpbWVTdGVwc0ZvckFuaW1hdGlvblw+</entry>
         <entry>NetCDF</entry>
         <entry encoding="base64">XDxOZXRDREZBbmltYXRpb25TZXJ2bGV0XD4=</entry>
+        <entry>Layer</entry>
+        <entry>Details</entry>
+        <entry>Error MapViewer</entry>
       </history-search>
       <history-cmd>
         <entry>%s/com\.mapviewer/org\.owgis/g</entry>
@@ -34,8 +34,8 @@
         <entry>q</entry>
         <entry>%s/;$//gc</entry>
         <entry>vs</entry>
-        <entry>w</entry>
         <entry>ew</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -88,6 +88,12 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="5" column="17" />
       </file>
+      <file name="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/java/org/owgis/business/servlets/RedirectServersServlet.java" timestamp="1591205165751">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="244" column="0" />
+        <mark key="]" line="244" column="0" />
+        <mark key="." line="244" column="0" />
+      </file>
       <file name="$USER_HOME$/Dropbox/TutorialsByMe/Java/JavaExamples/WebProjects/J2EE8_2020/HelloWorld/src/main/webapp/WEB-INF/web.xml" timestamp="1591131942299">
         <mark key="[" line="12" column="20" />
         <mark key="]" line="12" column="29" />
@@ -112,8 +118,8 @@
         <mark key="]" line="13" column="48" />
         <mark key="." line="13" column="48" />
       </file>
-      <file name="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/java/org/owgis/business/NetCDFRequestManager.java" timestamp="1591204873077">
-        <mark key="'" line="47" column="25" />
+      <file name="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/java/org/owgis/business/NetCDFRequestManager.java" timestamp="1591205295535">
+        <mark key="'" line="149" column="65" />
       </file>
       <file name="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/webapp/layers/TestLayers.xml" timestamp="1591203354214">
         <mark key="'" line="31" column="144" />
@@ -171,7 +177,7 @@
         <mark key="^" line="305" column="49" />
         <mark key="." line="89" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1591204923683">
+      <file name="/fragment.java" timestamp="1591205266724">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -249,45 +255,49 @@
       <jump line="12" column="12" filename="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/webapp/WEB-INF/web.xml" />
       <jump line="17" column="22" filename="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/webapp/WEB-INF/web.xml" />
       <jump line="18" column="51" filename="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/webapp/WEB-INF/web.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/java/org/owgis/business/servlets/RedirectServersServlet.java" />
+      <jump line="118" column="22" filename="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/java/org/owgis/business/NetCDFRequestManager.java" />
+      <jump line="138" column="15" filename="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/java/org/owgis/business/NetCDFRequestManager.java" />
+      <jump line="149" column="65" filename="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/java/org/owgis/business/NetCDFRequestManager.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>String</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="-" type="4">
         <text>String</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxOZXRDREZBbmltYXRpb25TZXJ2bGV0XD4=</text>
+        <text>Error MapViewer</text>
       </register>
       <register name="0" type="4">
         <text>layerDetails.center</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">Cgo=</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CQkJLyoKCQkJaWYobGF5ZXJEZXRhaWxzLmhhcygibmVhcmVzdFRpbWVJc28iKSApewoJCQkJU3RyaW5nIGNsb3Nlc3REYXRlID0gbGF5ZXJEZXRhaWxzLmdldFN0cmluZygibmVhcmVzdFRpbWVJc28iKTsKCQkJCWxheWVyRGV0YWlscy5hY2N1bXVsYXRlKCJuZWFyZXN0VGltZUlzbyIsIGNsb3Nlc3REYXRlKTsKCQkJfSov</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Ly8JCQlsYXllcnNTY3JpcHQgKz0gIlx0bGF5ZXIiK2xheWVyQ291bnQrIi5nZXRTb3VyY2UoKS5vbignY2hhbmdlJykpXG4iOwo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">CQkJCS8vRmluYWxseSB3ZSBhZGQgdGhlIGxpbmsgdG8gZ2VuZXJhdGUgdGhlIHZlcnRpY2FsIHByb2ZpbGUKCQkJCS8vIGZvciBuZXRDREYgbGF5ZXJzIHdpdGggbW9yZSB0aGFuIG9uZSBlbGV2YXRpb24uCgkJCQkvLyBOb3QgbmVlZGVkIGFueSBtb3JlLCB0aGUgdmVydGljYWwgcHJvZmlsZSBhbmQgdmVydGljYWwgdHJhbnNlY3QgaXMgZ2VuZXJhdGVkIGJ5IFB1bmN0dWFsRGF0YS5qcwoJCQkJLy9pZiAoaXNOZXRDREYpIHsKCgkJCQkvLwlMYXllck1lbnVNYW5hZ2VyU2luZ2xldG9uIGxheWVyc1NpbmcgPSBMYXllck1lbnVNYW5hZ2VyU2luZ2xldG9uLmdldEluc3RhbmNlKCk7CgkJCQkvLwlMYXllciBsYXllciA9IGxheWVyc1NpbmcuZ2V0TGF5ZXJCeU5hbWUobGF5ZXJzKTsvL1NlYXJjaCBjdXJyZW50IGxheWVyCgoJCQkJLy8JQm91bmRhcnlCb3ggQkJPWCA9IGxheWVyLmdldEJib3goKTsKCQkJCS8vCWlmICgobGF0IDw9IEJCT1guZ2V0TWF4TGF0KCkpICYmIChsYXQgPj0gQkJPWC5nZXRNaW5MYXQoKSkKCQkJCS8vCQkJJiYgKGxvbiA8PSBCQk9YLmdldE1heExvbmcoKSkgJiYgKGxvbiA+PSBCQk9YLmdldE1pbkxvbmcoKSkpIHsKCgkJCQkvLwkJaWYgKGVsZXZhdGlvbiAhPSBudWxsICYmICFlbGV2YXRpb24uZXF1YWxzKCIiKSkgewoJCQkJLy8JCQlTdHJpbmcgdmVydFByb2ZVcmwgPSBzZXJ2ZXIgKyAiP1JFUVVFU1Q9R2V0VmVydGljYWxQcm9maWxlJlZFUlNJT049MS4xLjEmU1RZTEVTPSIrc3R5bGVzKyImTEFZRVI9IiArIGxheWVycyArICImQ1JTPUNSUzo4NCIKCQkJCS8vCQkJCQkrICImUE9JTlQ9IiArIGxvbiArICIgIiArIGxhdCArICImRk9STUFUPWltYWdlL3BuZyI7CgkJCQkvLwkJCWlmICghdGltZS5lcXVhbHMoIk5vIGN1cnJlbnQgZGF0ZSIpKSB7CgkJCQkvLwkJCQl2ZXJ0UHJvZlVybCArPSAiJlRJTUU9IiArIHRpbWU7CgkJCQkvLwkJCX0vL2lmIG5vIGN1cnJlbnQgZGF0ZQoJCQkJLy8JCQlyZXN1bHQgKz0gIjxiPlZlcnRpY2FsIHByb2ZpbGU6IDwvYj4gPGEgaHJlZj0nIycgb25jbGljaz1cIm93Z2lzLnV0aWxzLnBvcFVwKCciICsgdmVydFByb2ZVcmwgKyAiJyw1MjAsNDIwKVwiID4gc2hvdyA8L2E+PGJyPiI7CgkJCQkvLwkJfQoJCQkJLy8JCS8vIEFkZCBsaW5rIGZvciB0aW1lIHNlcmllcyBwbG90CgkJCQkvLwkJdGltZSA9IHJlcXVlc3QuZ2V0UGFyYW1ldGVyKCJCT1RIVElNRVMiKTsKCgkJCQkvLwkJLy9XZSBvbmx5IGFkZCB0aGUgbGluayBpZiB3ZSByZWNlaXZlIHRoZSBUSU1FIGluZm9ybWF0aW9uCgkJCQkvLwkJaWYgKCF0aW1lLmVxdWFscygiTm8gY3VycmVudCBkYXRlIikgJiYgIXRpbWUuZXF1YWxzKCJ1bmRlZmluZWQiKSkgewoJCQkJLy8JCQl0aW1lU2VyaWVzVXJsICs9ICImVElNRT0iICsgdGltZTsKCQkJCS8vCQkJcmVzdWx0ICs9ICI8Yj5UaW1lIHNlcmllcyBwbG90OiA8L2I+IDxhIGhyZWY9JyMnIG9uY2xpY2s9XCJvd2dpcy51dGlscy5wb3BVcCgnIiArIHRpbWVTZXJpZXNVcmwgKyAiJyw1MjAsNDIwKVwiID4gc2hvdyA8L2E+PGJyPiI7CgkJCQkvLwkJfS8vCgkJCQkvLwl9IGVsc2UgewoJCQkJLy8JCXJlc3VsdCA9ICIiOwoJCQkJLy8JfS8vZWxzZSBvdXRzaWRlIEJCT1gKCgkJCQkvL30vL2lmIGlzTmV0Q0RG</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CS8vcHJpdmF0ZSBTdHJpbmcgYWdyZWdhVVJMcGFyYVRyYWVyRGF0b3MoaW50IGJhc2VMYXllcikgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">CQkJLyoKCQkJaWYobGF5ZXJEZXRhaWxzLmhhcygibmVhcmVzdFRpbWVJc28iKSApewoJCQkJU3RyaW5nIGNsb3Nlc3REYXRlID0gbGF5ZXJEZXRhaWxzLmdldFN0cmluZygibmVhcmVzdFRpbWVJc28iKTsKCQkJCWxheWVyRGV0YWlscy5hY2N1bXVsYXRlKCJuZWFyZXN0VGltZUlzbyIsIGNsb3Nlc3REYXRlKTsKCQkJfSov</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8JCQlsYXllcnNTY3JpcHQgKz0gIlx0bGF5ZXIiK2xheWVyQ291bnQrIi5nZXRTb3VyY2UoKS5vbignY2hhbmdlJykpXG4iOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CS8vcHJpdmF0ZSBTdHJpbmcgYWdyZWdhVVJMcGFyYVRyYWVyRGF0b3MoaW50IGJhc2VMYXllcikgewo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICAgICA8IS0tTWFpbkxheWVycyBCQk9YPSItOTguMCwxOC4wOTE2NDgxMDE4MDY2NCwtNzYuNDAwMDI0LDMxLjk2MDY0NzU4MzAwNzgxMiIgCiAgICAgICAgICAgICAgICAgICAgZm9ybWF0PSJpbWFnZS9wbmciICBzZXJ2ZXI9Imh0dHA6Ly9uY3dtcy5jb2Fwcy5mc3UuZWR1L25jV01TL3dtcyIKICAgICAgICAgICAgICAgICAgICB0aWxlZD0idHJ1ZSIgbmNXTVM9InRydWUiIG1pbmNvbG9yPSIxMCIgbWF4Y29sb3I9IjM0IiBtYXhfdGltZV9yYW5nZT0ibW9udGgiPiAgCiAgICAgICAgICAgIDxsYXllciBNZW51PSJuY3dtcyxvbGRuY3dtcyIgRU49IkhZQ09NICIgRVM9IkhZQ09NICsgIiBuYW1lPSJoeWNvbTIwMTAvdGVtcGVyYXR1cmUiICAgLz4KICAgICAgICA8L01haW5MYXllcnMtLT4KCgk8IS0tIG5jV01TIGFsbCAtLT4KCTwhLS0KCTxNYWluTGF5ZXJzIEJCT1g9Ii05OC4wLDE4LjA5MTY0ODEwMTgwNjY0LC03Ni40MDAwMjQsMzEuOTYwNjQ3NTgzMDA3ODEyIiAKCQkJCWZvcm1hdD0iaW1hZ2UvZ2lmIiAgc2VydmVyPSJodHRwOi8vMTMyLjI0OC44LjIzODo4MDgwL25jV01TXzIwMTUvd21zIgoJCQkJbmNXTVM9InRydWUiIG1pbmNvbG9yPSIxMCIgbWF4Y29sb3I9IjM0IiBtYXhfdGltZV9yYW5nZT0ibW9udGgiPiAgCgkJPGxheWVyIE1lbnU9Im5jd21zLG5jd21zTXVsdERhdGVNdWx0RGVwdGgiIEVOPSJHdWxmIG9mIE1leGljbyBUZW1wZXJhdHVyZSAyMDE0IgoJCQkgICBFUz0iR29sZm8gZGUgTSYjMjMzO3hpY28gVGVtcGVyYXR1cmEgMjAxNCIgCgkJCSAgIG5hbWU9Imd1bGZfdGVtcC90ZW1wZXJhdHVyZSIgCgkJCSAgIEhJX0lOPSLgpLXgpLDgpY3gpLcgMjAxNCDgpK7gpYfgpIIg4KSu4KWI4KSV4KWN4KS44KS/4KSV4KWLIOCkleClgCDgpJbgpL7gpKHgpLzgpYAg4KSV4KS+IOCkpOCkvuCkquCkruCkvuCkqCIgLz4KCgk8L01haW5MYXllcnM+IAoJLS0+</text>
+      <register name="8" type="2">
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -299,9 +309,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxOZXRDREZBbmltYXRpb25TZXJ2bGV0XD4=</last-search>
+      <last-search>Error MapViewer</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxOZXRDREZBbmltYXRpb25TZXJ2bGV0XD4=</last-pattern>
+      <last-pattern>Error MapViewer</last-pattern>
       <last-replace />
       <last-substitute>;$</last-substitute>
       <last-dir>1</last-dir>
