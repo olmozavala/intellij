@@ -166,11 +166,15 @@
         <mark key="." line="34" column="30" />
         <mark key="^" line="34" column="31" />
       </file>
+      <file name="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/webapp/common/JS/src/ol3/MainOl3.js" timestamp="1591200491465">
+        <mark key="'" line="305" column="48" />
+        <mark key="[" line="305" column="40" />
+        <mark key="]" line="305" column="49" />
+        <mark key="^" line="305" column="49" />
+        <mark key="." line="305" column="48" />
+      </file>
       <file name="/fragment.java" timestamp="1591132663959">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/webapp/Pages/Error/DefaultErrorPage.jsp" timestamp="1591122642396">
-        <mark key="." line="0" column="194" />
       </file>
     </filemarks>
     <jumps>
@@ -225,6 +229,9 @@
       <jump line="31" column="13" filename="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/webapp/Pages/MapViewer.jsp" />
       <jump line="22" column="40" filename="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/webapp/Pages/MapViewer.jsp" />
       <jump line="17" column="53" filename="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/pom.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/webapp/common/JS/src/ol3/MainOl3.js" />
+      <jump line="304" column="21" filename="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/webapp/common/JS/src/ol3/MainOl3.js" />
+      <jump line="305" column="48" filename="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/webapp/common/JS/src/ol3/MainOl3.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -275,11 +282,11 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>jstl</last-search>
+      <last-search>;$</last-search>
       <last-offset />
-      <last-pattern>jstl</last-pattern>
-      <last-replace>double</last-replace>
-      <last-substitute encoding="base64">XDxmbG9hdFw+</last-substitute>
+      <last-pattern>;$</last-pattern>
+      <last-replace />
+      <last-substitute>;$</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
