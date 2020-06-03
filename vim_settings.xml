@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxsYXllckRldGFpbHNcPg==</entry>
-        <entry>Attri</entry>
         <entry encoding="base64">XDxIdHRwU2VydmxldFJlcXVlc3RcPg==</entry>
         <entry encoding="base64">XDxPcGVuTGF5ZXJNYXBDb25maWdcPg==</entry>
         <entry encoding="base64">XDxtYXB2aWV3ZXJcPg==</entry>
@@ -25,6 +23,8 @@
         <entry encoding="base64">XDxmbXRcPg==</entry>
         <entry encoding="base64">XDxjXD4=</entry>
         <entry>jstl</entry>
+        <entry>layerDetails\.center</entry>
+        <entry>;$</entry>
       </history-search>
       <history-cmd>
         <entry>%s/com\.mapviewer/org\.owgis/g</entry>
@@ -34,6 +34,7 @@
         <entry>vs</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>%s/;$//gc</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -166,7 +167,7 @@
         <mark key="." line="34" column="30" />
         <mark key="^" line="34" column="31" />
       </file>
-      <file name="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/webapp/common/JS/src/ol3/MainOl3.js" timestamp="1591200491465">
+      <file name="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/webapp/common/JS/src/ol3/MainOl3.js" timestamp="1591200603318">
         <mark key="'" line="305" column="48" />
         <mark key="[" line="305" column="40" />
         <mark key="]" line="305" column="49" />
@@ -236,47 +237,47 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>layerDetails.center</text>
       </register>
       <register name="-" type="4">
-        <text>.jsp.</text>
+        <text>.split(&quot;,&quot;);</text>
       </register>
       <register name="/" type="4">
-        <text>jstl</text>
+        <text>;$</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">PCVAcGFnZSBwYWdlRW5jb2Rpbmc9IlVURi04IiU+Cg==</text>
+      <register name="0" type="4">
+        <text>layerDetails.center</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5qYXZheC5zZXJ2bGV0LmpzcC5qc3RsPC9ncm91cElkPgogICAgICA8YXJ0aWZhY3RJZD5qYXZheC5zZXJ2bGV0LmpzcC5qc3RsLWFwaTwvYXJ0aWZhY3RJZD4KICAgICAgPHZlcnNpb24+MS4yLjI8L3ZlcnNpb24+CiAgICA8L2RlcGVuZGVuY3k+</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIAogICAgdmFyIGNlbnRlciA9IGxheWVyRGV0YWlscy5jZW50ZXIuc3BsaXQoIiwiKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5qYXZheC5zZXJ2bGV0LmpzcC5qc3RsPC9ncm91cElkPgogICAgICA8YXJ0aWZhY3RJZD5qYXZheC5zZXJ2bGV0LmpzcC5qc3RsLWFwaTwvYXJ0aWZhY3RJZD4KICAgICAgPHZlcnNpb24+MS4yLjI8L3ZlcnNpb24+CiAgICA8L2RlcGVuZGVuY3k+</text>
+        <text encoding="base64">IDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5qYXZheC5zZXJ2bGV0LmpzcC5qc3RsPC9ncm91cElkPgogICAgICA8YXJ0aWZhY3RJZD5qYXZheC5zZXJ2bGV0LmpzcC5qc3RsLWFwaTwvYXJ0aWZhY3RJZD4KICAgICAgPHZlcnNpb24+MS4yLjI8L3ZlcnNpb24+CiAgICA8L2RlcGVuZGVuY3k+</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICA8IS0tIEZJWE1FIGNoYW5nZSBpdCB0byB0aGUgcHJvamVjdCdzIHdlYnNpdGUgLS0+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5qc3RsPC9ncm91cElkPgogICAgICA8YXJ0aWZhY3RJZD5qc3RsPC9hcnRpZmFjdElkPgogICAgICA8dmVyc2lvbj4xLjI8L3ZlcnNpb24+CiAgICA8L2RlcGVuZGVuY3k+</text>
+        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5qYXZheC5zZXJ2bGV0LmpzcC5qc3RsPC9ncm91cElkPgogICAgICA8YXJ0aWZhY3RJZD5qYXZheC5zZXJ2bGV0LmpzcC5qc3RsLWFwaTwvYXJ0aWZhY3RJZD4KICAgICAgPHZlcnNpb24+MS4yLjI8L3ZlcnNpb24+CiAgICA8L2RlcGVuZGVuY3k+</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICA8IS0tIEZJWE1FIGNoYW5nZSBpdCB0byB0aGUgcHJvamVjdCdzIHdlYnNpdGUgLS0+Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>%s/;$//gc</text>
       </register>
     </registers>
   </component>
