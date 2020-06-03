@@ -5,13 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxPcGVuTGF5ZXJNYXBDb25maWdcPg==</entry>
-        <entry encoding="base64">XDxtYXB2aWV3ZXJcPg==</entry>
-        <entry>com\.mapviewer</entry>
-        <entry>init</entry>
-        <entry>Double</entry>
-        <entry>setLayerDe</entry>
-        <entry>setLayer</entry>
         <entry encoding="base64">XDxOZXRDREZBbmltYXRpb25TZXJ2bGV0XD4=</entry>
         <entry encoding="base64">XDxNYXBWaWV3ZXJTZXJ2bGV0XD4=</entry>
         <entry encoding="base64">XDxmbG9hdFw+</entry>
@@ -25,15 +18,22 @@
         <entry>layerDetails\.center</entry>
         <entry>;$</entry>
         <entry encoding="base64">XDx3aGVuTWFwSXNSZWFkeVw+</entry>
+        <entry>gulf_vel</entry>
+        <entry>stream</entry>
+        <entry>Stream</entry>
+        <entry>ncwmstwo</entry>
+        <entry>world_cities</entry>
+        <entry>datesWithData</entry>
+        <entry>datesWith</entry>
       </history-search>
       <history-cmd>
         <entry>%s/com\.mapviewer/org\.owgis/g</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>%s//double/g</entry>
         <entry>qall</entry>
-        <entry>vs</entry>
         <entry>q</entry>
         <entry>%s/;$//gc</entry>
+        <entry>vs</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -99,7 +99,8 @@
         <mark key="." line="8" column="3" />
         <mark key="^" line="8" column="4" />
       </file>
-      <file name="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/webapp/layers/TestLayers.xml" timestamp="1591202336059">
+      <file name="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/webapp/layers/TestLayers.xml" timestamp="1591203354214">
+        <mark key="'" line="31" column="144" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="12" column="76" />
         <mark key="." line="12" column="75" />
@@ -119,12 +120,24 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="5" column="17" />
       </file>
-      <file name="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/java/org/owgis/model/Layer.java" timestamp="1591133873013">
-        <mark key="'" line="519" column="4" />
-        <mark key="[" line="299" column="36" />
-        <mark key="]" line="298" column="43" />
-        <mark key="." line="299" column="42" />
-        <mark key="^" line="298" column="43" />
+      <file name="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/webapp/layers/ncWMS_Layers.xml" timestamp="1591202609461">
+        <mark key="'" line="23" column="0" />
+        <mark key="[" line="51" column="56" />
+        <mark key="]" line="51" column="56" />
+        <mark key="." line="51" column="56" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/java/org/owgis/business/OpenLayersManager.java" timestamp="1591203492628">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="343" column="0" />
+        <mark key="]" line="343" column="0" />
+        <mark key="." line="343" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/java/org/owgis/model/Layer.java" timestamp="1591203840716">
+        <mark key="'" line="295" column="19" />
+        <mark key="[" line="368" column="100" />
+        <mark key="]" line="368" column="100" />
+        <mark key="." line="368" column="100" />
+        <mark key="^" line="368" column="102" />
       </file>
       <file name="$USER_HOME$/Dropbox/TutorialsByMe/Java/JavaExamples/WebProjects/J2EE8_2020/HelloWorld/src/main/webapp/WEB-INF/web.xml" timestamp="1591131942299">
         <mark key="[" line="12" column="20" />
@@ -137,12 +150,6 @@
         <mark key="]" line="25" column="16" />
         <mark key="." line="25" column="15" />
         <mark key="^" line="25" column="16" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/TutorialsByMe/Java/JavaExamples/WebProjects/J2EE8_2020/HelloWorld/src/main/java/org/hello/HelloBabe.java" timestamp="1591130401790">
-        <mark key="[" line="2" column="23" />
-        <mark key="]" line="2" column="23" />
-        <mark key="^" line="2" column="16" />
-        <mark key="." line="2" column="23" />
       </file>
       <file name="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/pom.xml" timestamp="1591136865659">
         <mark key="'" line="17" column="53" />
@@ -158,9 +165,6 @@
         <mark key="^" line="58" column="32" />
         <mark key="." line="58" column="64" />
       </file>
-      <file name="/HTML File.txt.ft" timestamp="1591130842757">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/webapp/WEB-INF/web.xml" timestamp="1591136717509">
         <mark key="'" line="9" column="52" />
         <mark key="[" line="34" column="22" />
@@ -168,15 +172,15 @@
         <mark key="." line="34" column="30" />
         <mark key="^" line="34" column="31" />
       </file>
-      <file name="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/webapp/common/JS/src/ol3/MainOl3.js" timestamp="1591200847174">
-        <mark key="'" line="300" column="37" />
-        <mark key="[" line="283" column="0" />
-        <mark key="]" line="283" column="0" />
+      <file name="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/webapp/common/JS/src/ol3/MainOl3.js" timestamp="1591202728130">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="89" column="0" />
         <mark key="^" line="305" column="49" />
-        <mark key="." line="283" column="0" />
+        <mark key="." line="89" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1591132663959">
-        <mark key="[" line="0" column="0" />
+      <file name="/fragment.java" timestamp="1591203812646">
+        <mark key="[" line="0" column="1" />
       </file>
     </filemarks>
     <jumps>
@@ -231,58 +235,66 @@
       <jump line="31" column="13" filename="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/webapp/Pages/MapViewer.jsp" />
       <jump line="22" column="40" filename="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/webapp/Pages/MapViewer.jsp" />
       <jump line="17" column="53" filename="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/pom.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/webapp/common/JS/src/ol3/MainOl3.js" />
       <jump line="304" column="21" filename="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/webapp/common/JS/src/ol3/MainOl3.js" />
       <jump line="305" column="48" filename="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/webapp/common/JS/src/ol3/MainOl3.js" />
       <jump line="296" column="13" filename="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/webapp/common/JS/src/ol3/MainOl3.js" />
       <jump line="300" column="37" filename="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/webapp/common/JS/src/ol3/MainOl3.js" />
+      <jump line="65" column="0" filename="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/webapp/layers/ncWMS_Layers.xml" />
+      <jump line="22" column="22" filename="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/webapp/layers/ncWMS_Layers.xml" />
+      <jump line="28" column="22" filename="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/webapp/layers/ncWMS_Layers.xml" />
+      <jump line="23" column="0" filename="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/webapp/layers/ncWMS_Layers.xml" />
+      <jump line="88" column="0" filename="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/webapp/common/JS/src/ol3/MainOl3.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/webapp/common/JS/src/ol3/MainOl3.js" />
+      <jump line="399" column="28" filename="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/java/org/owgis/business/OpenLayersManager.java" />
+      <jump line="20" column="25" filename="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/webapp/layers/TestLayers.xml" />
+      <jump line="39" column="51" filename="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/webapp/layers/TestLayers.xml" />
+      <jump line="31" column="144" filename="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/webapp/layers/TestLayers.xml" />
+      <jump line="310" column="12" filename="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/java/org/owgis/business/OpenLayersManager.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/java/org/owgis/business/OpenLayersManager.java" />
+      <jump line="401" column="8" filename="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/java/org/owgis/model/Layer.java" />
+      <jump line="295" column="19" filename="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/java/org/owgis/model/Layer.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">PA==</text>
+        <text>o</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PA==</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx3aGVuTWFwSXNSZWFkeVw+</text>
+        <text>datesWith</text>
       </register>
       <register name="0" type="4">
         <text>layerDetails.center</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLyptYXAuYWRkSW50ZXJhY3Rpb24obmV3IG9sLmludGVyYWN0aW9uLk1vdXNlV2hlZWxab29tKHsKICAgICAgICAgICAgICAgIGNvbnN0cmFpblJlc29sdXRpb246IHRydWUsIGR1cmF0aW9uOiAzMDAsIHRpbWVvdXQ6IDEwMCAvLyBmb3JjZSB6b29taW5nIHRvIGEgaW50ZWdlciB6b29tCiAgICAgICAgICAgIH0pKTsKICAgICAgICAgICAgKi8K</text>
+        <text encoding="base64">Ly8JCQlsYXllcnNTY3JpcHQgKz0gIlx0bGF5ZXIiK2xheWVyQ291bnQrIi5nZXRTb3VyY2UoKS5vbignY2hhbmdlJykpXG4iOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CS8vcHJpdmF0ZSBTdHJpbmcgYWdyZWdhVVJMcGFyYVRyYWVyRGF0b3MoaW50IGJhc2VMYXllcikgewo=</text>
       </register>
-      <register name="3" type="4">
-        <text>function whenMapIsReady(callback) {
-        if (map.get('ready'))
-            callback();
-        else
-            map.once('change:ready', whenMapIsReady.bind(null, callback));
-    }</text>
+      <register name="3" type="2">
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIAogICAgdmFyIGNlbnRlciA9IGxheWVyRGV0YWlscy5jZW50ZXIuc3BsaXQoIiwiKTsK</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgICAgICA8IS0tTWFpbkxheWVycyBCQk9YPSItOTguMCwxOC4wOTE2NDgxMDE4MDY2NCwtNzYuNDAwMDI0LDMxLjk2MDY0NzU4MzAwNzgxMiIgCiAgICAgICAgICAgICAgICAgICAgZm9ybWF0PSJpbWFnZS9wbmciICBzZXJ2ZXI9Imh0dHA6Ly9uY3dtcy5jb2Fwcy5mc3UuZWR1L25jV01TL3dtcyIKICAgICAgICAgICAgICAgICAgICB0aWxlZD0idHJ1ZSIgbmNXTVM9InRydWUiIG1pbmNvbG9yPSIxMCIgbWF4Y29sb3I9IjM0IiBtYXhfdGltZV9yYW5nZT0ibW9udGgiPiAgCiAgICAgICAgICAgIDxsYXllciBNZW51PSJuY3dtcyxvbGRuY3dtcyIgRU49IkhZQ09NICIgRVM9IkhZQ09NICsgIiBuYW1lPSJoeWNvbTIwMTAvdGVtcGVyYXR1cmUiICAgLz4KICAgICAgICA8L01haW5MYXllcnMtLT4KCgk8IS0tIG5jV01TIGFsbCAtLT4KCTwhLS0KCTxNYWluTGF5ZXJzIEJCT1g9Ii05OC4wLDE4LjA5MTY0ODEwMTgwNjY0LC03Ni40MDAwMjQsMzEuOTYwNjQ3NTgzMDA3ODEyIiAKCQkJCWZvcm1hdD0iaW1hZ2UvZ2lmIiAgc2VydmVyPSJodHRwOi8vMTMyLjI0OC44LjIzODo4MDgwL25jV01TXzIwMTUvd21zIgoJCQkJbmNXTVM9InRydWUiIG1pbmNvbG9yPSIxMCIgbWF4Y29sb3I9IjM0IiBtYXhfdGltZV9yYW5nZT0ibW9udGgiPiAgCgkJPGxheWVyIE1lbnU9Im5jd21zLG5jd21zTXVsdERhdGVNdWx0RGVwdGgiIEVOPSJHdWxmIG9mIE1leGljbyBUZW1wZXJhdHVyZSAyMDE0IgoJCQkgICBFUz0iR29sZm8gZGUgTSYjMjMzO3hpY28gVGVtcGVyYXR1cmEgMjAxNCIgCgkJCSAgIG5hbWU9Imd1bGZfdGVtcC90ZW1wZXJhdHVyZSIgCgkJCSAgIEhJX0lOPSLgpLXgpLDgpY3gpLcgMjAxNCDgpK7gpYfgpIIg4KSu4KWI4KSV4KWN4KS44KS/4KSV4KWLIOCkleClgCDgpJbgpL7gpKHgpLzgpYAg4KSV4KS+IOCkpOCkvuCkquCkruCkvuCkqCIgLz4KCgk8L01haW5MYXllcnM+IAoJLS0+</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5qYXZheC5zZXJ2bGV0LmpzcC5qc3RsPC9ncm91cElkPgogICAgICA8YXJ0aWZhY3RJZD5qYXZheC5zZXJ2bGV0LmpzcC5qc3RsLWFwaTwvYXJ0aWZhY3RJZD4KICAgICAgPHZlcnNpb24+MS4yLjI8L3ZlcnNpb24+CiAgICA8L2RlcGVuZGVuY3k+</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLyptYXAuYWRkSW50ZXJhY3Rpb24obmV3IG9sLmludGVyYWN0aW9uLk1vdXNlV2hlZWxab29tKHsKICAgICAgICAgICAgICAgIGNvbnN0cmFpblJlc29sdXRpb246IHRydWUsIGR1cmF0aW9uOiAzMDAsIHRpbWVvdXQ6IDEwMCAvLyBmb3JjZSB6b29taW5nIHRvIGEgaW50ZWdlciB6b29tCiAgICAgICAgICAgIH0pKTsKICAgICAgICAgICAgKi8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -291,9 +303,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDx3aGVuTWFwSXNSZWFkeVw+</last-search>
+      <last-search>datesWith</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx3aGVuTWFwSXNSZWFkeVw+</last-pattern>
+      <last-pattern>datesWith</last-pattern>
       <last-replace />
       <last-substitute>;$</last-substitute>
       <last-dir>1</last-dir>
