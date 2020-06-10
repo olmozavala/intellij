@@ -63,12 +63,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/java/org/owgis/model/PagesNames.java" timestamp="1591134020949">
-        <mark key="[" line="36" column="42" />
-        <mark key="]" line="36" column="51" />
-        <mark key="." line="36" column="50" />
-        <mark key="^" line="36" column="51" />
-      </file>
       <file name="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/java/org/owgis/business/NetCDFRequestManager.java" timestamp="1591207100416">
         <mark key="'" line="47" column="25" />
         <mark key="[" line="71" column="47" />
@@ -175,10 +169,11 @@
         <mark key="^" line="305" column="49" />
         <mark key="." line="89" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/webapp/common/scss/Palettes.scss" timestamp="1591810756402" />
       <file name="/fragment.java" timestamp="1591207217369">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/webapp/common/JS/src/ncwms/Palettes.js" timestamp="1591810724077">
+      <file name="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/webapp/common/JS/src/ncwms/Palettes.js" timestamp="1591810727150">
         <mark key="'" line="211" column="28" />
         <mark key="[" line="195" column="0" />
         <mark key="]" line="265" column="9" />
