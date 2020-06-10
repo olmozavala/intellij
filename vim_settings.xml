@@ -63,24 +63,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/java/org/owgis/model/PagesNames.java" timestamp="1591134020949">
-        <mark key="[" line="36" column="42" />
-        <mark key="]" line="36" column="51" />
-        <mark key="." line="36" column="50" />
-        <mark key="^" line="36" column="51" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/TutorialsByMe/Java/JavaExamples/WebProjects/J2EE8_2020/HelloWorld/src/main/java/org/hello/HelloWorld.java" timestamp="1591133332476">
-        <mark key="[" line="13" column="48" />
-        <mark key="]" line="13" column="48" />
-        <mark key="." line="13" column="48" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/java/org/owgis/business/NetCDFRequestManager.java" timestamp="1591207100416">
-        <mark key="'" line="47" column="25" />
-        <mark key="[" line="71" column="47" />
-        <mark key="]" line="71" column="48" />
-        <mark key="^" line="140" column="96" />
-        <mark key="." line="71" column="47" />
-      </file>
       <file name="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/webapp/Pages/MapViewer.jsp" timestamp="1591136363057">
         <mark key="'" line="22" column="40" />
         <mark key="[" line="4" column="0" />
@@ -101,6 +83,48 @@
         <mark key="." line="8" column="3" />
         <mark key="^" line="8" column="4" />
       </file>
+      <file name="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/webapp/common/JS/src/ajax/ajax.js" timestamp="1591207264012">
+        <mark key="[" line="84" column="47" />
+        <mark key="]" line="85" column="28" />
+        <mark key="^" line="85" column="28" />
+        <mark key="." line="85" column="27" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/jstl/jstl/1.2/jstl-1.2.jar!/META-INF/c.tld" timestamp="1591134401396">
+        <mark key="'" line="162" column="8" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="5" column="17" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/java/org/owgis/business/servlets/RedirectServersServlet.java" timestamp="1591205165751">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="244" column="0" />
+        <mark key="]" line="244" column="0" />
+        <mark key="." line="244" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/pom.xml" timestamp="1591136865659">
+        <mark key="'" line="17" column="53" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="^" line="47" column="4" />
+        <mark key="." line="47" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/java/org/owgis/model/PagesNames.java" timestamp="1591134020949">
+        <mark key="[" line="36" column="42" />
+        <mark key="]" line="36" column="51" />
+        <mark key="." line="36" column="50" />
+        <mark key="^" line="36" column="51" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/TutorialsByMe/Java/JavaExamples/WebProjects/J2EE8_2020/HelloWorld/src/main/java/org/hello/HelloWorld.java" timestamp="1591133332476">
+        <mark key="[" line="13" column="48" />
+        <mark key="]" line="13" column="48" />
+        <mark key="." line="13" column="48" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/java/org/owgis/business/NetCDFRequestManager.java" timestamp="1591207100416">
+        <mark key="'" line="47" column="25" />
+        <mark key="[" line="71" column="47" />
+        <mark key="]" line="71" column="48" />
+        <mark key="^" line="140" column="96" />
+        <mark key="." line="71" column="47" />
+      </file>
       <file name="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/webapp/layers/TestLayers.xml" timestamp="1591203354214">
         <mark key="'" line="31" column="144" />
         <mark key="[" line="0" column="0" />
@@ -114,12 +138,6 @@
         <mark key="." line="18" column="43" />
         <mark key="^" line="18" column="44" />
       </file>
-      <file name="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/webapp/common/JS/src/ajax/ajax.js" timestamp="1591207264012">
-        <mark key="[" line="84" column="47" />
-        <mark key="]" line="85" column="28" />
-        <mark key="^" line="85" column="28" />
-        <mark key="." line="85" column="27" />
-      </file>
       <file name="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/java/org/owgis/business/servlets/NetCDFAnimationServlet.java" timestamp="1591207242461">
         <mark key="'" line="232" column="20" />
         <mark key="[" line="73" column="52" />
@@ -127,16 +145,8 @@
         <mark key="." line="73" column="52" />
         <mark key="^" line="73" column="135" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/jstl/jstl/1.2/jstl-1.2.jar!/META-INF/c.tld" timestamp="1591134401396">
-        <mark key="'" line="162" column="8" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="5" column="17" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/java/org/owgis/business/servlets/RedirectServersServlet.java" timestamp="1591205165751">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="244" column="0" />
-        <mark key="]" line="244" column="0" />
-        <mark key="." line="244" column="0" />
+      <file name="/" timestamp="1591808954321">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/webapp/layers/ncWMS_Layers.xml" timestamp="1591202609461">
         <mark key="'" line="23" column="0" />
@@ -156,20 +166,6 @@
         <mark key="]" line="316" column="82" />
         <mark key="^" line="316" column="82" />
         <mark key="." line="316" column="81" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/pom.xml" timestamp="1591136865659">
-        <mark key="'" line="17" column="53" />
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="^" line="47" column="4" />
-        <mark key="." line="47" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/java/org/owgis/business/servlets/MapViewerServlet.java" timestamp="1591132379641">
-        <mark key="'" line="59" column="13" />
-        <mark key="[" line="58" column="64" />
-        <mark key="]" line="58" column="64" />
-        <mark key="^" line="58" column="32" />
-        <mark key="." line="58" column="64" />
       </file>
       <file name="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/webapp/WEB-INF/web.xml" timestamp="1591204889736">
         <mark key="'" line="18" column="51" />
