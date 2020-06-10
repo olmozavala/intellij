@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>;$</entry>
         <entry encoding="base64">XDx3aGVuTWFwSXNSZWFkeVw+</entry>
         <entry>gulf_vel</entry>
         <entry>stream</entry>
@@ -25,17 +24,18 @@
         <entry>Error Map</entry>
         <entry encoding="base64">XDxnZXRMYXllclRpbWVTdGVwc0ZvckFuaW1hdGlvblw+</entry>
         <entry encoding="base64">XDxnZXRUaW1lU3RlcHNcPg==</entry>
+        <entry>horbar</entry>
       </history-search>
       <history-cmd>
         <entry>%s/com\.mapviewer/org\.owgis/g</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>%s//double/g</entry>
         <entry>qall</entry>
-        <entry>q</entry>
         <entry>%s/;$//gc</entry>
         <entry>vs</entry>
         <entry>ew</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -63,6 +63,19 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/java/org/owgis/model/PagesNames.java" timestamp="1591134020949">
+        <mark key="[" line="36" column="42" />
+        <mark key="]" line="36" column="51" />
+        <mark key="." line="36" column="50" />
+        <mark key="^" line="36" column="51" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/java/org/owgis/business/NetCDFRequestManager.java" timestamp="1591207100416">
+        <mark key="'" line="47" column="25" />
+        <mark key="[" line="71" column="47" />
+        <mark key="]" line="71" column="48" />
+        <mark key="^" line="140" column="96" />
+        <mark key="." line="71" column="47" />
+      </file>
       <file name="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/webapp/Pages/MapViewer.jsp" timestamp="1591136363057">
         <mark key="'" line="22" column="40" />
         <mark key="[" line="4" column="0" />
@@ -83,11 +96,25 @@
         <mark key="." line="8" column="3" />
         <mark key="^" line="8" column="4" />
       </file>
+      <file name="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/webapp/layers/TestLayers.xml" timestamp="1591203354214">
+        <mark key="'" line="31" column="144" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="12" column="76" />
+        <mark key="." line="12" column="75" />
+        <mark key="^" line="12" column="76" />
+      </file>
       <file name="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/webapp/common/JS/src/ajax/ajax.js" timestamp="1591207264012">
         <mark key="[" line="84" column="47" />
         <mark key="]" line="85" column="28" />
         <mark key="^" line="85" column="28" />
         <mark key="." line="85" column="27" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/java/org/owgis/business/servlets/NetCDFAnimationServlet.java" timestamp="1591207242461">
+        <mark key="'" line="232" column="20" />
+        <mark key="[" line="73" column="52" />
+        <mark key="]" line="73" column="52" />
+        <mark key="." line="73" column="52" />
+        <mark key="^" line="73" column="135" />
       </file>
       <file name="$MAVEN_REPOSITORY$/jstl/jstl/1.2/jstl-1.2.jar!/META-INF/c.tld" timestamp="1591134401396">
         <mark key="'" line="162" column="8" />
@@ -99,51 +126,6 @@
         <mark key="[" line="244" column="0" />
         <mark key="]" line="244" column="0" />
         <mark key="." line="244" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/pom.xml" timestamp="1591136865659">
-        <mark key="'" line="17" column="53" />
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="^" line="47" column="4" />
-        <mark key="." line="47" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/java/org/owgis/model/PagesNames.java" timestamp="1591134020949">
-        <mark key="[" line="36" column="42" />
-        <mark key="]" line="36" column="51" />
-        <mark key="." line="36" column="50" />
-        <mark key="^" line="36" column="51" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/TutorialsByMe/Java/JavaExamples/WebProjects/J2EE8_2020/HelloWorld/src/main/java/org/hello/HelloWorld.java" timestamp="1591133332476">
-        <mark key="[" line="13" column="48" />
-        <mark key="]" line="13" column="48" />
-        <mark key="." line="13" column="48" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/java/org/owgis/business/NetCDFRequestManager.java" timestamp="1591207100416">
-        <mark key="'" line="47" column="25" />
-        <mark key="[" line="71" column="47" />
-        <mark key="]" line="71" column="48" />
-        <mark key="^" line="140" column="96" />
-        <mark key="." line="71" column="47" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/webapp/layers/TestLayers.xml" timestamp="1591203354214">
-        <mark key="'" line="31" column="144" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="12" column="76" />
-        <mark key="." line="12" column="75" />
-        <mark key="^" line="12" column="76" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/webapp/index.html" timestamp="1591133922878">
-        <mark key="[" line="18" column="35" />
-        <mark key="]" line="18" column="44" />
-        <mark key="." line="18" column="43" />
-        <mark key="^" line="18" column="44" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/java/org/owgis/business/servlets/NetCDFAnimationServlet.java" timestamp="1591207242461">
-        <mark key="'" line="232" column="20" />
-        <mark key="[" line="73" column="52" />
-        <mark key="]" line="73" column="52" />
-        <mark key="." line="73" column="52" />
-        <mark key="^" line="73" column="135" />
       </file>
       <file name="/" timestamp="1591808954321">
         <mark key="[" line="0" column="0" />
@@ -160,12 +142,24 @@
         <mark key="]" line="343" column="0" />
         <mark key="." line="343" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/webapp/Pages/Layouts/DraggableWindows/NcWMS/Palettes.jsp" timestamp="1591810051524">
+        <mark key="'" line="17" column="13" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="43" column="5" />
+      </file>
       <file name="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/java/org/owgis/model/Layer.java" timestamp="1591204107605">
         <mark key="'" line="316" column="51" />
         <mark key="[" line="316" column="71" />
         <mark key="]" line="316" column="82" />
         <mark key="^" line="316" column="82" />
         <mark key="." line="316" column="81" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/pom.xml" timestamp="1591136865659">
+        <mark key="'" line="17" column="53" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="^" line="47" column="4" />
+        <mark key="." line="47" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/webapp/WEB-INF/web.xml" timestamp="1591204889736">
         <mark key="'" line="18" column="51" />
@@ -183,6 +177,11 @@
       </file>
       <file name="/fragment.java" timestamp="1591207217369">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/webapp/common/JS/src/ncwms/Palettes.js" timestamp="1591810724077">
+        <mark key="'" line="211" column="28" />
+        <mark key="[" line="195" column="0" />
+        <mark key="]" line="265" column="9" />
       </file>
     </filemarks>
     <jumps>
@@ -270,21 +269,26 @@
       <jump line="75" column="139" filename="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/java/org/owgis/business/servlets/NetCDFAnimationServlet.java" />
       <jump line="57" column="0" filename="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/java/org/owgis/business/servlets/NetCDFAnimationServlet.java" />
       <jump line="231" column="20" filename="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/java/org/owgis/business/servlets/NetCDFAnimationServlet.java" />
+      <jump line="211" column="28" filename="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/webapp/common/JS/src/ncwms/Palettes.js" />
+      <jump line="17" column="13" filename="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/webapp/Pages/Layouts/DraggableWindows/NcWMS/Palettes.jsp" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>i</text>
+        <text encoding="base64">CQl2YXIgYmFyV2lkdGggPSAhbW9iaWxlID8gTWF0aC5jZWlsKCQod2luZG93KS53aWR0aCgpKi40KSA6IE1hdGguY2VpbCgkKHdpbmRvdykud2lkdGgoKSouODUpOwovLwkJdmFyIGJhckhlaWdodCA9IE1hdGguY2VpbChiYXJXaWR0aCouMDMpOwoJCXZhciBiYXJIZWlnaHQgPSAxNTsKCgkJLy8tLS0tLS0gTW9kaWZ5aW5nIHRoZSBzaXplIG9mIHRoZSBkaXYgY29udGFpbmVyCgkJJCgiI2Rpdi1wYWxldHRlLWhvcmJhciIpLmNzcygiV0lEVEgiLGJhcldpZHRoKyJweCIpOwoJCSQoIiNkaXYtcGFsZXR0ZS1ob3JiYXIiKS5jc3MoIkhFSUdIVCIsYmFySGVpZ2h0KyJweCIpOwoKCQkvLy0tLS0tLSBNb2RpZnlpbmcgdGhlIHVybCBvZiB0aGUgY29sb2JhciAtLS0tLS0tLS0tCgkJdmFyIGZpbmFsVXJsID0gcmVwbGFjZVVybFBhcmFtKF9wYWxldHRlVXJsLCJXSURUSCIsYmFyV2lkdGgpOwoJCWZpbmFsVXJsPSByZXBsYWNlVXJsUGFyYW0oZmluYWxVcmwsIkhFSUdIVCIsYmFySGVpZ2h0KTsKCQlmaW5hbFVybD0gcmVwbGFjZVVybFBhcmFtKGZpbmFsVXJsLCJWRVJUSUNBTCIsIkZhbHNlIik7CgkJZmluYWxVcmw9IHJlcGxhY2VVcmxQYXJhbShmaW5hbFVybCwiUEFMRVRURSIsbWFwcGFsZXR0ZSk7CiAgICAgICAgICAgICAgICBpZih0eXBlb2YgbGF5ZXJEZXRhaWxzLm51bUNvbG9yQmFuZHNbMV0gPT0gIm51bWJlciIgKXsgZmluYWxVcmw9IHJlcGxhY2VVcmxQYXJhbShmaW5hbFVybCwiTlVNQ09MT1JCQU5EUyIsbGF5ZXJEZXRhaWxzLm51bUNvbG9yQmFuZHNbMV0pOyB9CgkJLy8gQWRkIHRoZSBtb2RpZmllZCB1cmwgdG8gdGhlIGltZyBvYmplY3QKCgkJdmFyIGltYWdlT2JqID0gbmV3IEltYWdlKCk7CgkJaW1hZ2VPYmouc3JjID0gZmluYWxVcmw7Ci8vCQljb25zb2xlLmxvZyhmaW5hbFVybCk7CgoJCXZhciBjdHggPSAkKCcjY2FudmFzLXBhbGV0dGUtaG9yYmFyJylbMF0uZ2V0Q29udGV4dCgiMmQiKTsKCQkvLy0tLS0tLSBNb2RpZnlpbmcgdGhlIHNpemUgb2YgdGhlIGNhbnZhcyBjb250YWluZXIKCQl2YXIgc3BhY2VGb3JVbml0cyA9IDQwOy8vIFNwYWNlIGJldHdlZW4gdGhlIGJsYWNrIHBhcnQgZm9yIHVuaXRzIGFuZCB0aGUgcmVzdAoJCWN0eC5jYW52YXMud2lkdGggPSBiYXJXaWR0aCtzcGFjZUZvclVuaXRzOwoJCWN0eC5jYW52YXMuaGVpZ2h0ID0gYmFySGVpZ2h0OwoKCQlpbWFnZU9iai5vbmxvYWQgPSBmdW5jdGlvbigpewoJCQkvL2N0eC5nbG9iYWxBbHBoYSA9IDAuNzsKCQkJY3R4LmRyYXdJbWFnZShpbWFnZU9iaixzcGFjZUZvclVuaXRzLDApOwoJCQljdHguZ2xvYmFsQWxwaGEgPSAxOwoJCQkkKCIjZGl2LXBhbGV0dGUtaG9yYmFyIikuc2hvdygpOwoJCQljdHguZmlsbFN0eWxlID0gJyNGRkZGRkYnOyAvL0RlZmluZSBjb2xvciB0byB1c2UKCQkJdmFyIHBpeEJlbGxvd1RleHQgPSAzOy8vIEhvdyBtYW55IHBpeGVscyBiZWxsb3cgdGV4dAoJCQljdHguZm9udD0gKGJhckhlaWdodC1waXhCZWxsb3dUZXh0KSsicHggQXJpYWwiOwoKCQkJLy9Ib3cgbWFueSBudW1iZXJzIGRvIHdlIHdhbnQgaW4gdGhlIGNvbG9yIGJhcgkKCQkJLy8gSXQgaXMgbm90IHBlcmZlY3QgYmVjYXVzZSB0aGUgdGlja3MgZnVuY3Rpb24gbW9kaWZpZXMKCQkJLy8gdGhlIHNpemUgb2YgdGhlIGFycmF5IGRlcGVuZGluZyBpdHMgcGFyYW1ldGVycwoJCQl2YXIgdG90TnVtYmVycyA9IDg7CgkJCXZhciBtaW5WYWwgPSBOdW1iZXIobWluUGFsVmFsKTsKCQkJdmFyIG1heFZhbCA9IE51bWJlcihtYXhQYWxWYWwpOwovLwkJCWNvbnNvbGUubG9nKCItLS0tLSIsbWluVmFsLCItIixtYXhWYWwpOwovLwkJCXZhciB2YWx1ZXMgPSBkMy50aWNrcyhtaW5WYWwsbWF4VmFsLHRvdE51bWJlcnMpOwovLwkJCQoJCQkvL1RoaXMgbGluZWFyIHNjYWxlIGlzIHVzZWQgdG8gb2J0YWluIHRoZSBudW1iZXJzCgkJCS8vIHRoYXQgYXJlIHdyaXR0ZW4gYWJvdmUgdGhlIGNvbG9yIHBhbGV0dGUKCQkJdmFyIGxpblNjYWxlID0gZDMuc2NhbGVMaW5lYXIoKQoJCQkJCS5kb21haW4oW21pblZhbCwgbWF4VmFsXSkKCQkJCQkucmFuZ2UoWzAsIDFdKTsKCgkJCS8vVGhpcyBsaW5lYXIgc2NhbGUgaXMgdXNlZCB0byBvYnRhaW4gdGhlIHBvc2l0aW9ucwoJCQkvLyB3aGVyZSB3ZSB3aWxsIHdyaXRoZSB0aGUgbnVtYmVycyAKCQkJdmFyIGxpblNjYWxlUG9zID0gZDMuc2NhbGVMaW5lYXIoKQoJCQkJCS5kb21haW4oW21pblZhbCwgbWF4VmFsXSkKCQkJCQkucmFuZ2UoWzAsIGJhcldpZHRoXSk7CgoJCQkvLyBPYnRhaW5zIHRoZSBudW1iZXJzIHdlIHdpbGwgd3JpdGUgaW4gdGhlIGNvbG9yIHBhbGV0dGUKCQkJdmFyIG15TnVtYmVycyA9IGxpblNjYWxlLnRpY2tzKHRvdE51bWJlcnMpOwoKCQkJLy9Xcml0ZSB0aGUgdW5pdHMgZmlyc3QKCQkJY3R4LmZpbGxUZXh0KGxheWVyRGV0YWlscy51bml0cywyLE1hdGguY2VpbChiYXJIZWlnaHQtcGl4QmVsbG93VGV4dCkpOwoKCQkJLy9Xcml0ZSB0aGUgcmVzdCBvZiB0aGUgbnVtYmVycyBmcm9tIHRoZSB0aWNrcyBhbmQgdGhlIHBvc2l0aW9ucyAKCQkJbXlOdW1iZXJzLmZvckVhY2goZnVuY3Rpb24obnVtYmVyKXsKCQkJCQkJCS8vY29uc29sZS5sb2cobnVtYmVyKTsKCQkJCQkJCS8vY29uc29sZS5sb2cobGluU2NhbGVQb3MobnVtYmVyKSk7IAoJCQkJCQkJLy8gVGhlIC0xNCBpcyBqdXN0IHRvIG1vdmUgdGhlIGxldHRlcnMgaW4gdGhlIG1pZGRsZQoJCQkJCQkJY3R4LmZpbGxUZXh0KG51bWJlcixsaW5TY2FsZVBvcyhudW1iZXIpK3NwYWNlRm9yVW5pdHMtMTQsTWF0aC5jZWlsKGJhckhlaWdodC1waXhCZWxsb3dUZXh0KSk7CgkJCQkJCQkgfSkgOwoKCQl9Ow==</text>
+      </register>
+      <register name="+" type="4">
+        <text encoding="base64">CQl2YXIgYmFyV2lkdGggPSAhbW9iaWxlID8gTWF0aC5jZWlsKCQod2luZG93KS53aWR0aCgpKi40KSA6IE1hdGguY2VpbCgkKHdpbmRvdykud2lkdGgoKSouODUpOwovLwkJdmFyIGJhckhlaWdodCA9IE1hdGguY2VpbChiYXJXaWR0aCouMDMpOwoJCXZhciBiYXJIZWlnaHQgPSAxNTsKCgkJLy8tLS0tLS0gTW9kaWZ5aW5nIHRoZSBzaXplIG9mIHRoZSBkaXYgY29udGFpbmVyCgkJJCgiI2Rpdi1wYWxldHRlLWhvcmJhciIpLmNzcygiV0lEVEgiLGJhcldpZHRoKyJweCIpOwoJCSQoIiNkaXYtcGFsZXR0ZS1ob3JiYXIiKS5jc3MoIkhFSUdIVCIsYmFySGVpZ2h0KyJweCIpOwoKCQkvLy0tLS0tLSBNb2RpZnlpbmcgdGhlIHVybCBvZiB0aGUgY29sb2JhciAtLS0tLS0tLS0tCgkJdmFyIGZpbmFsVXJsID0gcmVwbGFjZVVybFBhcmFtKF9wYWxldHRlVXJsLCJXSURUSCIsYmFyV2lkdGgpOwoJCWZpbmFsVXJsPSByZXBsYWNlVXJsUGFyYW0oZmluYWxVcmwsIkhFSUdIVCIsYmFySGVpZ2h0KTsKCQlmaW5hbFVybD0gcmVwbGFjZVVybFBhcmFtKGZpbmFsVXJsLCJWRVJUSUNBTCIsIkZhbHNlIik7CgkJZmluYWxVcmw9IHJlcGxhY2VVcmxQYXJhbShmaW5hbFVybCwiUEFMRVRURSIsbWFwcGFsZXR0ZSk7CiAgICAgICAgICAgICAgICBpZih0eXBlb2YgbGF5ZXJEZXRhaWxzLm51bUNvbG9yQmFuZHNbMV0gPT0gIm51bWJlciIgKXsgZmluYWxVcmw9IHJlcGxhY2VVcmxQYXJhbShmaW5hbFVybCwiTlVNQ09MT1JCQU5EUyIsbGF5ZXJEZXRhaWxzLm51bUNvbG9yQmFuZHNbMV0pOyB9CgkJLy8gQWRkIHRoZSBtb2RpZmllZCB1cmwgdG8gdGhlIGltZyBvYmplY3QKCgkJdmFyIGltYWdlT2JqID0gbmV3IEltYWdlKCk7CgkJaW1hZ2VPYmouc3JjID0gZmluYWxVcmw7Ci8vCQljb25zb2xlLmxvZyhmaW5hbFVybCk7CgoJCXZhciBjdHggPSAkKCcjY2FudmFzLXBhbGV0dGUtaG9yYmFyJylbMF0uZ2V0Q29udGV4dCgiMmQiKTsKCQkvLy0tLS0tLSBNb2RpZnlpbmcgdGhlIHNpemUgb2YgdGhlIGNhbnZhcyBjb250YWluZXIKCQl2YXIgc3BhY2VGb3JVbml0cyA9IDQwOy8vIFNwYWNlIGJldHdlZW4gdGhlIGJsYWNrIHBhcnQgZm9yIHVuaXRzIGFuZCB0aGUgcmVzdAoJCWN0eC5jYW52YXMud2lkdGggPSBiYXJXaWR0aCtzcGFjZUZvclVuaXRzOwoJCWN0eC5jYW52YXMuaGVpZ2h0ID0gYmFySGVpZ2h0OwoKCQlpbWFnZU9iai5vbmxvYWQgPSBmdW5jdGlvbigpewoJCQkvL2N0eC5nbG9iYWxBbHBoYSA9IDAuNzsKCQkJY3R4LmRyYXdJbWFnZShpbWFnZU9iaixzcGFjZUZvclVuaXRzLDApOwoJCQljdHguZ2xvYmFsQWxwaGEgPSAxOwoJCQkkKCIjZGl2LXBhbGV0dGUtaG9yYmFyIikuc2hvdygpOwoJCQljdHguZmlsbFN0eWxlID0gJyNGRkZGRkYnOyAvL0RlZmluZSBjb2xvciB0byB1c2UKCQkJdmFyIHBpeEJlbGxvd1RleHQgPSAzOy8vIEhvdyBtYW55IHBpeGVscyBiZWxsb3cgdGV4dAoJCQljdHguZm9udD0gKGJhckhlaWdodC1waXhCZWxsb3dUZXh0KSsicHggQXJpYWwiOwoKCQkJLy9Ib3cgbWFueSBudW1iZXJzIGRvIHdlIHdhbnQgaW4gdGhlIGNvbG9yIGJhcgkKCQkJLy8gSXQgaXMgbm90IHBlcmZlY3QgYmVjYXVzZSB0aGUgdGlja3MgZnVuY3Rpb24gbW9kaWZpZXMKCQkJLy8gdGhlIHNpemUgb2YgdGhlIGFycmF5IGRlcGVuZGluZyBpdHMgcGFyYW1ldGVycwoJCQl2YXIgdG90TnVtYmVycyA9IDg7CgkJCXZhciBtaW5WYWwgPSBOdW1iZXIobWluUGFsVmFsKTsKCQkJdmFyIG1heFZhbCA9IE51bWJlcihtYXhQYWxWYWwpOwovLwkJCWNvbnNvbGUubG9nKCItLS0tLSIsbWluVmFsLCItIixtYXhWYWwpOwovLwkJCXZhciB2YWx1ZXMgPSBkMy50aWNrcyhtaW5WYWwsbWF4VmFsLHRvdE51bWJlcnMpOwovLwkJCQoJCQkvL1RoaXMgbGluZWFyIHNjYWxlIGlzIHVzZWQgdG8gb2J0YWluIHRoZSBudW1iZXJzCgkJCS8vIHRoYXQgYXJlIHdyaXR0ZW4gYWJvdmUgdGhlIGNvbG9yIHBhbGV0dGUKCQkJdmFyIGxpblNjYWxlID0gZDMuc2NhbGVMaW5lYXIoKQoJCQkJCS5kb21haW4oW21pblZhbCwgbWF4VmFsXSkKCQkJCQkucmFuZ2UoWzAsIDFdKTsKCgkJCS8vVGhpcyBsaW5lYXIgc2NhbGUgaXMgdXNlZCB0byBvYnRhaW4gdGhlIHBvc2l0aW9ucwoJCQkvLyB3aGVyZSB3ZSB3aWxsIHdyaXRoZSB0aGUgbnVtYmVycyAKCQkJdmFyIGxpblNjYWxlUG9zID0gZDMuc2NhbGVMaW5lYXIoKQoJCQkJCS5kb21haW4oW21pblZhbCwgbWF4VmFsXSkKCQkJCQkucmFuZ2UoWzAsIGJhcldpZHRoXSk7CgoJCQkvLyBPYnRhaW5zIHRoZSBudW1iZXJzIHdlIHdpbGwgd3JpdGUgaW4gdGhlIGNvbG9yIHBhbGV0dGUKCQkJdmFyIG15TnVtYmVycyA9IGxpblNjYWxlLnRpY2tzKHRvdE51bWJlcnMpOwoKCQkJLy9Xcml0ZSB0aGUgdW5pdHMgZmlyc3QKCQkJY3R4LmZpbGxUZXh0KGxheWVyRGV0YWlscy51bml0cywyLE1hdGguY2VpbChiYXJIZWlnaHQtcGl4QmVsbG93VGV4dCkpOwoKCQkJLy9Xcml0ZSB0aGUgcmVzdCBvZiB0aGUgbnVtYmVycyBmcm9tIHRoZSB0aWNrcyBhbmQgdGhlIHBvc2l0aW9ucyAKCQkJbXlOdW1iZXJzLmZvckVhY2goZnVuY3Rpb24obnVtYmVyKXsKCQkJCQkJCS8vY29uc29sZS5sb2cobnVtYmVyKTsKCQkJCQkJCS8vY29uc29sZS5sb2cobGluU2NhbGVQb3MobnVtYmVyKSk7IAoJCQkJCQkJLy8gVGhlIC0xNCBpcyBqdXN0IHRvIG1vdmUgdGhlIGxldHRlcnMgaW4gdGhlIG1pZGRsZQoJCQkJCQkJY3R4LmZpbGxUZXh0KG51bWJlcixsaW5TY2FsZVBvcyhudW1iZXIpK3NwYWNlRm9yVW5pdHMtMTQsTWF0aC5jZWlsKGJhckhlaWdodC1waXhCZWxsb3dUZXh0KSk7CgkJCQkJCQkgfSkgOwoKCQl9Ow==</text>
       </register>
       <register name="-" type="4">
         <text>i</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRUaW1lU3RlcHNcPg==</text>
+        <text>horbar</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQkJCVN0cmluZyBhdHRlbXB0ZWRGaXJzdERheSA9IGZpcnN0UGFydC5zdWJzdHJpbmcoMCwgbGVuZ3RoIC0gMikgKyBTdHJpbmcuZm9ybWF0KCIlMDJkIiwgaG91cikgKyBzZWNvbmRQYXJ0Owo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">CQl2YXIgYmFyV2lkdGggPSAhbW9iaWxlID8gTWF0aC5jZWlsKCQod2luZG93KS53aWR0aCgpKi40KSA6IE1hdGguY2VpbCgkKHdpbmRvdykud2lkdGgoKSouODUpOwovLwkJdmFyIGJhckhlaWdodCA9IE1hdGguY2VpbChiYXJXaWR0aCouMDMpOwoJCXZhciBiYXJIZWlnaHQgPSAxNTsKCgkJLy8tLS0tLS0gTW9kaWZ5aW5nIHRoZSBzaXplIG9mIHRoZSBkaXYgY29udGFpbmVyCgkJJCgiI2Rpdi1wYWxldHRlLWhvcmJhciIpLmNzcygiV0lEVEgiLGJhcldpZHRoKyJweCIpOwoJCSQoIiNkaXYtcGFsZXR0ZS1ob3JiYXIiKS5jc3MoIkhFSUdIVCIsYmFySGVpZ2h0KyJweCIpOwoKCQkvLy0tLS0tLSBNb2RpZnlpbmcgdGhlIHVybCBvZiB0aGUgY29sb2JhciAtLS0tLS0tLS0tCgkJdmFyIGZpbmFsVXJsID0gcmVwbGFjZVVybFBhcmFtKF9wYWxldHRlVXJsLCJXSURUSCIsYmFyV2lkdGgpOwoJCWZpbmFsVXJsPSByZXBsYWNlVXJsUGFyYW0oZmluYWxVcmwsIkhFSUdIVCIsYmFySGVpZ2h0KTsKCQlmaW5hbFVybD0gcmVwbGFjZVVybFBhcmFtKGZpbmFsVXJsLCJWRVJUSUNBTCIsIkZhbHNlIik7CgkJZmluYWxVcmw9IHJlcGxhY2VVcmxQYXJhbShmaW5hbFVybCwiUEFMRVRURSIsbWFwcGFsZXR0ZSk7CiAgICAgICAgICAgICAgICBpZih0eXBlb2YgbGF5ZXJEZXRhaWxzLm51bUNvbG9yQmFuZHNbMV0gPT0gIm51bWJlciIgKXsgZmluYWxVcmw9IHJlcGxhY2VVcmxQYXJhbShmaW5hbFVybCwiTlVNQ09MT1JCQU5EUyIsbGF5ZXJEZXRhaWxzLm51bUNvbG9yQmFuZHNbMV0pOyB9CgkJLy8gQWRkIHRoZSBtb2RpZmllZCB1cmwgdG8gdGhlIGltZyBvYmplY3QKCgkJdmFyIGltYWdlT2JqID0gbmV3IEltYWdlKCk7CgkJaW1hZ2VPYmouc3JjID0gZmluYWxVcmw7Ci8vCQljb25zb2xlLmxvZyhmaW5hbFVybCk7CgoJCXZhciBjdHggPSAkKCcjY2FudmFzLXBhbGV0dGUtaG9yYmFyJylbMF0uZ2V0Q29udGV4dCgiMmQiKTsKCQkvLy0tLS0tLSBNb2RpZnlpbmcgdGhlIHNpemUgb2YgdGhlIGNhbnZhcyBjb250YWluZXIKCQl2YXIgc3BhY2VGb3JVbml0cyA9IDQwOy8vIFNwYWNlIGJldHdlZW4gdGhlIGJsYWNrIHBhcnQgZm9yIHVuaXRzIGFuZCB0aGUgcmVzdAoJCWN0eC5jYW52YXMud2lkdGggPSBiYXJXaWR0aCtzcGFjZUZvclVuaXRzOwoJCWN0eC5jYW52YXMuaGVpZ2h0ID0gYmFySGVpZ2h0OwoKCQlpbWFnZU9iai5vbmxvYWQgPSBmdW5jdGlvbigpewoJCQkvL2N0eC5nbG9iYWxBbHBoYSA9IDAuNzsKCQkJY3R4LmRyYXdJbWFnZShpbWFnZU9iaixzcGFjZUZvclVuaXRzLDApOwoJCQljdHguZ2xvYmFsQWxwaGEgPSAxOwoJCQkkKCIjZGl2LXBhbGV0dGUtaG9yYmFyIikuc2hvdygpOwoJCQljdHguZmlsbFN0eWxlID0gJyNGRkZGRkYnOyAvL0RlZmluZSBjb2xvciB0byB1c2UKCQkJdmFyIHBpeEJlbGxvd1RleHQgPSAzOy8vIEhvdyBtYW55IHBpeGVscyBiZWxsb3cgdGV4dAoJCQljdHguZm9udD0gKGJhckhlaWdodC1waXhCZWxsb3dUZXh0KSsicHggQXJpYWwiOwoKCQkJLy9Ib3cgbWFueSBudW1iZXJzIGRvIHdlIHdhbnQgaW4gdGhlIGNvbG9yIGJhcgkKCQkJLy8gSXQgaXMgbm90IHBlcmZlY3QgYmVjYXVzZSB0aGUgdGlja3MgZnVuY3Rpb24gbW9kaWZpZXMKCQkJLy8gdGhlIHNpemUgb2YgdGhlIGFycmF5IGRlcGVuZGluZyBpdHMgcGFyYW1ldGVycwoJCQl2YXIgdG90TnVtYmVycyA9IDg7CgkJCXZhciBtaW5WYWwgPSBOdW1iZXIobWluUGFsVmFsKTsKCQkJdmFyIG1heFZhbCA9IE51bWJlcihtYXhQYWxWYWwpOwovLwkJCWNvbnNvbGUubG9nKCItLS0tLSIsbWluVmFsLCItIixtYXhWYWwpOwovLwkJCXZhciB2YWx1ZXMgPSBkMy50aWNrcyhtaW5WYWwsbWF4VmFsLHRvdE51bWJlcnMpOwovLwkJCQoJCQkvL1RoaXMgbGluZWFyIHNjYWxlIGlzIHVzZWQgdG8gb2J0YWluIHRoZSBudW1iZXJzCgkJCS8vIHRoYXQgYXJlIHdyaXR0ZW4gYWJvdmUgdGhlIGNvbG9yIHBhbGV0dGUKCQkJdmFyIGxpblNjYWxlID0gZDMuc2NhbGVMaW5lYXIoKQoJCQkJCS5kb21haW4oW21pblZhbCwgbWF4VmFsXSkKCQkJCQkucmFuZ2UoWzAsIDFdKTsKCgkJCS8vVGhpcyBsaW5lYXIgc2NhbGUgaXMgdXNlZCB0byBvYnRhaW4gdGhlIHBvc2l0aW9ucwoJCQkvLyB3aGVyZSB3ZSB3aWxsIHdyaXRoZSB0aGUgbnVtYmVycyAKCQkJdmFyIGxpblNjYWxlUG9zID0gZDMuc2NhbGVMaW5lYXIoKQoJCQkJCS5kb21haW4oW21pblZhbCwgbWF4VmFsXSkKCQkJCQkucmFuZ2UoWzAsIGJhcldpZHRoXSk7CgoJCQkvLyBPYnRhaW5zIHRoZSBudW1iZXJzIHdlIHdpbGwgd3JpdGUgaW4gdGhlIGNvbG9yIHBhbGV0dGUKCQkJdmFyIG15TnVtYmVycyA9IGxpblNjYWxlLnRpY2tzKHRvdE51bWJlcnMpOwoKCQkJLy9Xcml0ZSB0aGUgdW5pdHMgZmlyc3QKCQkJY3R4LmZpbGxUZXh0KGxheWVyRGV0YWlscy51bml0cywyLE1hdGguY2VpbChiYXJIZWlnaHQtcGl4QmVsbG93VGV4dCkpOwoKCQkJLy9Xcml0ZSB0aGUgcmVzdCBvZiB0aGUgbnVtYmVycyBmcm9tIHRoZSB0aWNrcyBhbmQgdGhlIHBvc2l0aW9ucyAKCQkJbXlOdW1iZXJzLmZvckVhY2goZnVuY3Rpb24obnVtYmVyKXsKCQkJCQkJCS8vY29uc29sZS5sb2cobnVtYmVyKTsKCQkJCQkJCS8vY29uc29sZS5sb2cobGluU2NhbGVQb3MobnVtYmVyKSk7IAoJCQkJCQkJLy8gVGhlIC0xNCBpcyBqdXN0IHRvIG1vdmUgdGhlIGxldHRlcnMgaW4gdGhlIG1pZGRsZQoJCQkJCQkJY3R4LmZpbGxUZXh0KG51bWJlcixsaW5TY2FsZVBvcyhudW1iZXIpK3NwYWNlRm9yVW5pdHMtMTQsTWF0aC5jZWlsKGJhckhlaWdodC1waXhCZWxsb3dUZXh0KSk7CgkJCQkJCQkgfSkgOwoKCQl9Ow==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQlpbnQgbGVuZ3RoID0gc2Vjb25kUGFydC5sZW5ndGgoKTsK</text>
@@ -314,15 +318,15 @@
         <text encoding="base64">CQlKU09OT2JqZWN0IGpzb25TdGFydERhdGVzID0gbmV3IEpTT05PYmplY3QoTmV0Q0RGUmVxdWVzdE1hbmFnZXIuZ2V0TGF5ZXJUaW1lU3RlcHNGb3JBbmltYXRpb24obGF5ZXIsIGZpcnN0RGF5LCBsYXN0RGF5KSk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxnZXRUaW1lU3RlcHNcPg==</last-search>
+      <last-search>horbar</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRUaW1lU3RlcHNcPg==</last-pattern>
+      <last-pattern>horbar</last-pattern>
       <last-replace />
       <last-substitute>;$</last-substitute>
       <last-dir>1</last-dir>
