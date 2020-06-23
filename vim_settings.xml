@@ -23,19 +23,19 @@
         <entry>Error Map</entry>
         <entry encoding="base64">XDxnZXRMYXllclRpbWVTdGVwc0ZvckFuaW1hdGlvblw+</entry>
         <entry encoding="base64">XDxnZXRUaW1lU3RlcHNcPg==</entry>
-        <entry encoding="base64">XDxmdW5jdGlvblw+</entry>
-        <entry encoding="base64">XDxhc3luY0ZpbGxUaW1lU3RlcHNTdGFydFw+</entry>
+        <entry>horbar</entry>
+        <entry encoding="base64">XDxkZWZhdWx0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/com\.mapviewer/org\.owgis/g</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>%s//double/g</entry>
         <entry>qall</entry>
-        <entry>q</entry>
         <entry>%s/;$//gc</entry>
         <entry>vs</entry>
         <entry>ew</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -63,17 +63,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/java/org/owgis/model/PagesNames.java" timestamp="1591134020949">
-        <mark key="[" line="36" column="42" />
-        <mark key="]" line="36" column="51" />
-        <mark key="." line="36" column="50" />
-        <mark key="^" line="36" column="51" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/TutorialsByMe/Java/JavaExamples/WebProjects/J2EE8_2020/HelloWorld/src/main/java/org/hello/HelloWorld.java" timestamp="1591133332476">
-        <mark key="[" line="13" column="48" />
-        <mark key="]" line="13" column="48" />
-        <mark key="." line="13" column="48" />
-      </file>
       <file name="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/java/org/owgis/business/NetCDFRequestManager.java" timestamp="1591207100416">
         <mark key="'" line="47" column="25" />
         <mark key="[" line="71" column="47" />
@@ -108,18 +97,11 @@
         <mark key="." line="12" column="75" />
         <mark key="^" line="12" column="76" />
       </file>
-      <file name="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/webapp/index.html" timestamp="1591133922878">
-        <mark key="[" line="18" column="35" />
-        <mark key="]" line="18" column="44" />
-        <mark key="." line="18" column="43" />
-        <mark key="^" line="18" column="44" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/webapp/common/JS/src/ajax/ajax.js" timestamp="1591207488603">
-        <mark key="'" line="84" column="9" />
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="85" column="0" />
-        <mark key="^" line="85" column="35" />
-        <mark key="." line="85" column="0" />
+      <file name="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/webapp/common/JS/src/ajax/ajax.js" timestamp="1591207264012">
+        <mark key="[" line="84" column="47" />
+        <mark key="]" line="85" column="28" />
+        <mark key="^" line="85" column="28" />
+        <mark key="." line="85" column="27" />
       </file>
       <file name="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/java/org/owgis/business/servlets/NetCDFAnimationServlet.java" timestamp="1591207242461">
         <mark key="'" line="232" column="20" />
@@ -139,6 +121,9 @@
         <mark key="]" line="244" column="0" />
         <mark key="." line="244" column="0" />
       </file>
+      <file name="/" timestamp="1591808954321">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/webapp/layers/ncWMS_Layers.xml" timestamp="1591202609461">
         <mark key="'" line="23" column="0" />
         <mark key="[" line="51" column="56" />
@@ -150,6 +135,11 @@
         <mark key="[" line="343" column="0" />
         <mark key="]" line="343" column="0" />
         <mark key="." line="343" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/webapp/Pages/Layouts/DraggableWindows/NcWMS/Palettes.jsp" timestamp="1591810051524">
+        <mark key="'" line="17" column="13" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="43" column="5" />
       </file>
       <file name="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/java/org/owgis/model/Layer.java" timestamp="1591204107605">
         <mark key="'" line="316" column="51" />
@@ -165,13 +155,6 @@
         <mark key="^" line="47" column="4" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/java/org/owgis/business/servlets/MapViewerServlet.java" timestamp="1591132379641">
-        <mark key="'" line="59" column="13" />
-        <mark key="[" line="58" column="64" />
-        <mark key="]" line="58" column="64" />
-        <mark key="^" line="58" column="32" />
-        <mark key="." line="58" column="64" />
-      </file>
       <file name="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/webapp/WEB-INF/web.xml" timestamp="1591204889736">
         <mark key="'" line="18" column="51" />
         <mark key="[" line="34" column="22" />
@@ -186,8 +169,18 @@
         <mark key="^" line="305" column="49" />
         <mark key="." line="89" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/webapp/common/scss/Palettes.scss" timestamp="1591811797301">
+        <mark key="'" line="42" column="28" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="43" column="27" />
+      </file>
       <file name="/fragment.java" timestamp="1591207217369">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/webapp/common/JS/src/ncwms/Palettes.js" timestamp="1591810727150">
+        <mark key="'" line="211" column="28" />
+        <mark key="[" line="195" column="0" />
+        <mark key="]" line="265" column="9" />
       </file>
     </filemarks>
     <jumps>
@@ -275,60 +268,66 @@
       <jump line="75" column="139" filename="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/java/org/owgis/business/servlets/NetCDFAnimationServlet.java" />
       <jump line="57" column="0" filename="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/java/org/owgis/business/servlets/NetCDFAnimationServlet.java" />
       <jump line="231" column="20" filename="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/java/org/owgis/business/servlets/NetCDFAnimationServlet.java" />
-      <jump line="84" column="9" filename="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/webapp/common/JS/src/ajax/ajax.js" />
+      <jump line="211" column="28" filename="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/webapp/common/JS/src/ncwms/Palettes.js" />
+      <jump line="17" column="13" filename="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/webapp/Pages/Layouts/DraggableWindows/NcWMS/Palettes.jsp" />
+      <jump line="58" column="41" filename="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/webapp/common/scss/Palettes.scss" />
+      <jump line="42" column="28" filename="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/webapp/common/scss/Palettes.scss" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CWNvbnNvbGUubG9nKCJBcXVpIHB1dGEgbWFkcmUiLCByZXNwb25zZVRleHQpCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CUBpbmNsdWRlIGJvcmRlci1yYWRpdXMoJGRlZmF1bHQtYm9yZGVyLXJhZGl1cyAtIDIpOwoJYmFja2dyb3VuZC1jb2xvcjogYmxhY2s7</text>
+      </register>
+      <register name="+" type="4">
+        <text encoding="base64">CUBpbmNsdWRlIGJvcmRlci1yYWRpdXMoJGRlZmF1bHQtYm9yZGVyLXJhZGl1cyAtIDIpOwoJYmFja2dyb3VuZC1jb2xvcjogYmxhY2s7</text>
       </register>
       <register name="-" type="4">
         <text>i</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhc3luY0ZpbGxUaW1lU3RlcHNTdGFydFw+</text>
+        <text encoding="base64">XDxkZWZhdWx0XD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQkJCVN0cmluZyBhdHRlbXB0ZWRGaXJzdERheSA9IGZpcnN0UGFydC5zdWJzdHJpbmcoMCwgbGVuZ3RoIC0gMikgKyBTdHJpbmcuZm9ybWF0KCIlMDJkIiwgaG91cikgKyBzZWNvbmRQYXJ0Owo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">CQl2YXIgYmFyV2lkdGggPSAhbW9iaWxlID8gTWF0aC5jZWlsKCQod2luZG93KS53aWR0aCgpKi40KSA6IE1hdGguY2VpbCgkKHdpbmRvdykud2lkdGgoKSouODUpOwovLwkJdmFyIGJhckhlaWdodCA9IE1hdGguY2VpbChiYXJXaWR0aCouMDMpOwoJCXZhciBiYXJIZWlnaHQgPSAxNTsKCgkJLy8tLS0tLS0gTW9kaWZ5aW5nIHRoZSBzaXplIG9mIHRoZSBkaXYgY29udGFpbmVyCgkJJCgiI2Rpdi1wYWxldHRlLWhvcmJhciIpLmNzcygiV0lEVEgiLGJhcldpZHRoKyJweCIpOwoJCSQoIiNkaXYtcGFsZXR0ZS1ob3JiYXIiKS5jc3MoIkhFSUdIVCIsYmFySGVpZ2h0KyJweCIpOwoKCQkvLy0tLS0tLSBNb2RpZnlpbmcgdGhlIHVybCBvZiB0aGUgY29sb2JhciAtLS0tLS0tLS0tCgkJdmFyIGZpbmFsVXJsID0gcmVwbGFjZVVybFBhcmFtKF9wYWxldHRlVXJsLCJXSURUSCIsYmFyV2lkdGgpOwoJCWZpbmFsVXJsPSByZXBsYWNlVXJsUGFyYW0oZmluYWxVcmwsIkhFSUdIVCIsYmFySGVpZ2h0KTsKCQlmaW5hbFVybD0gcmVwbGFjZVVybFBhcmFtKGZpbmFsVXJsLCJWRVJUSUNBTCIsIkZhbHNlIik7CgkJZmluYWxVcmw9IHJlcGxhY2VVcmxQYXJhbShmaW5hbFVybCwiUEFMRVRURSIsbWFwcGFsZXR0ZSk7CiAgICAgICAgICAgICAgICBpZih0eXBlb2YgbGF5ZXJEZXRhaWxzLm51bUNvbG9yQmFuZHNbMV0gPT0gIm51bWJlciIgKXsgZmluYWxVcmw9IHJlcGxhY2VVcmxQYXJhbShmaW5hbFVybCwiTlVNQ09MT1JCQU5EUyIsbGF5ZXJEZXRhaWxzLm51bUNvbG9yQmFuZHNbMV0pOyB9CgkJLy8gQWRkIHRoZSBtb2RpZmllZCB1cmwgdG8gdGhlIGltZyBvYmplY3QKCgkJdmFyIGltYWdlT2JqID0gbmV3IEltYWdlKCk7CgkJaW1hZ2VPYmouc3JjID0gZmluYWxVcmw7Ci8vCQljb25zb2xlLmxvZyhmaW5hbFVybCk7CgoJCXZhciBjdHggPSAkKCcjY2FudmFzLXBhbGV0dGUtaG9yYmFyJylbMF0uZ2V0Q29udGV4dCgiMmQiKTsKCQkvLy0tLS0tLSBNb2RpZnlpbmcgdGhlIHNpemUgb2YgdGhlIGNhbnZhcyBjb250YWluZXIKCQl2YXIgc3BhY2VGb3JVbml0cyA9IDQwOy8vIFNwYWNlIGJldHdlZW4gdGhlIGJsYWNrIHBhcnQgZm9yIHVuaXRzIGFuZCB0aGUgcmVzdAoJCWN0eC5jYW52YXMud2lkdGggPSBiYXJXaWR0aCtzcGFjZUZvclVuaXRzOwoJCWN0eC5jYW52YXMuaGVpZ2h0ID0gYmFySGVpZ2h0OwoKCQlpbWFnZU9iai5vbmxvYWQgPSBmdW5jdGlvbigpewoJCQkvL2N0eC5nbG9iYWxBbHBoYSA9IDAuNzsKCQkJY3R4LmRyYXdJbWFnZShpbWFnZU9iaixzcGFjZUZvclVuaXRzLDApOwoJCQljdHguZ2xvYmFsQWxwaGEgPSAxOwoJCQkkKCIjZGl2LXBhbGV0dGUtaG9yYmFyIikuc2hvdygpOwoJCQljdHguZmlsbFN0eWxlID0gJyNGRkZGRkYnOyAvL0RlZmluZSBjb2xvciB0byB1c2UKCQkJdmFyIHBpeEJlbGxvd1RleHQgPSAzOy8vIEhvdyBtYW55IHBpeGVscyBiZWxsb3cgdGV4dAoJCQljdHguZm9udD0gKGJhckhlaWdodC1waXhCZWxsb3dUZXh0KSsicHggQXJpYWwiOwoKCQkJLy9Ib3cgbWFueSBudW1iZXJzIGRvIHdlIHdhbnQgaW4gdGhlIGNvbG9yIGJhcgkKCQkJLy8gSXQgaXMgbm90IHBlcmZlY3QgYmVjYXVzZSB0aGUgdGlja3MgZnVuY3Rpb24gbW9kaWZpZXMKCQkJLy8gdGhlIHNpemUgb2YgdGhlIGFycmF5IGRlcGVuZGluZyBpdHMgcGFyYW1ldGVycwoJCQl2YXIgdG90TnVtYmVycyA9IDg7CgkJCXZhciBtaW5WYWwgPSBOdW1iZXIobWluUGFsVmFsKTsKCQkJdmFyIG1heFZhbCA9IE51bWJlcihtYXhQYWxWYWwpOwovLwkJCWNvbnNvbGUubG9nKCItLS0tLSIsbWluVmFsLCItIixtYXhWYWwpOwovLwkJCXZhciB2YWx1ZXMgPSBkMy50aWNrcyhtaW5WYWwsbWF4VmFsLHRvdE51bWJlcnMpOwovLwkJCQoJCQkvL1RoaXMgbGluZWFyIHNjYWxlIGlzIHVzZWQgdG8gb2J0YWluIHRoZSBudW1iZXJzCgkJCS8vIHRoYXQgYXJlIHdyaXR0ZW4gYWJvdmUgdGhlIGNvbG9yIHBhbGV0dGUKCQkJdmFyIGxpblNjYWxlID0gZDMuc2NhbGVMaW5lYXIoKQoJCQkJCS5kb21haW4oW21pblZhbCwgbWF4VmFsXSkKCQkJCQkucmFuZ2UoWzAsIDFdKTsKCgkJCS8vVGhpcyBsaW5lYXIgc2NhbGUgaXMgdXNlZCB0byBvYnRhaW4gdGhlIHBvc2l0aW9ucwoJCQkvLyB3aGVyZSB3ZSB3aWxsIHdyaXRoZSB0aGUgbnVtYmVycyAKCQkJdmFyIGxpblNjYWxlUG9zID0gZDMuc2NhbGVMaW5lYXIoKQoJCQkJCS5kb21haW4oW21pblZhbCwgbWF4VmFsXSkKCQkJCQkucmFuZ2UoWzAsIGJhcldpZHRoXSk7CgoJCQkvLyBPYnRhaW5zIHRoZSBudW1iZXJzIHdlIHdpbGwgd3JpdGUgaW4gdGhlIGNvbG9yIHBhbGV0dGUKCQkJdmFyIG15TnVtYmVycyA9IGxpblNjYWxlLnRpY2tzKHRvdE51bWJlcnMpOwoKCQkJLy9Xcml0ZSB0aGUgdW5pdHMgZmlyc3QKCQkJY3R4LmZpbGxUZXh0KGxheWVyRGV0YWlscy51bml0cywyLE1hdGguY2VpbChiYXJIZWlnaHQtcGl4QmVsbG93VGV4dCkpOwoKCQkJLy9Xcml0ZSB0aGUgcmVzdCBvZiB0aGUgbnVtYmVycyBmcm9tIHRoZSB0aWNrcyBhbmQgdGhlIHBvc2l0aW9ucyAKCQkJbXlOdW1iZXJzLmZvckVhY2goZnVuY3Rpb24obnVtYmVyKXsKCQkJCQkJCS8vY29uc29sZS5sb2cobnVtYmVyKTsKCQkJCQkJCS8vY29uc29sZS5sb2cobGluU2NhbGVQb3MobnVtYmVyKSk7IAoJCQkJCQkJLy8gVGhlIC0xNCBpcyBqdXN0IHRvIG1vdmUgdGhlIGxldHRlcnMgaW4gdGhlIG1pZGRsZQoJCQkJCQkJY3R4LmZpbGxUZXh0KG51bWJlcixsaW5TY2FsZVBvcyhudW1iZXIpK3NwYWNlRm9yVW5pdHMtMTQsTWF0aC5jZWlsKGJhckhlaWdodC1waXhCZWxsb3dUZXh0KSk7CgkJCQkJCQkgfSkgOwoKCQl9Ow==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWNvbnNvbGUubG9nKCJBcXVpIHB1dGEgbWFkcmUiLCByZXNwb25zZVRleHQpCg==</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">CQlpbnQgbGVuZ3RoID0gc2Vjb25kUGFydC5sZW5ndGgoKTsK</text>
       </register>
-      <register name="3" type="2">
+      <register name="2" type="2">
         <text encoding="base64">CQlpbnQgbGVuZ3RoID0gZmlyc3REYXkubGVuZ3RoKCk7Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="3" type="2">
         <text encoding="base64">CQkgICAgaG91cisrOwo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="4" type="2">
         <text encoding="base64">CQkK</text>
       </register>
-      <register name="6" type="2">
+      <register name="5" type="2">
         <text encoding="base64">CQkJCWludCBsZW5ndGggPSBmaXJzdERheS5sZW5ndGgoKQo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CQkgICAgCVN5c2VtLnByaW4K</text>
       </register>
-      <register name="9" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="9" type="2">
+        <text encoding="base64">CQlKU09OT2JqZWN0IGpzb25TdGFydERhdGVzID0gbmV3IEpTT05PYmplY3QoTmV0Q0RGUmVxdWVzdE1hbmFnZXIuZ2V0TGF5ZXJUaW1lU3RlcHNGb3JBbmltYXRpb24obGF5ZXIsIGZpcnN0RGF5LCBsYXN0RGF5KSk7Cg==</text>
+      </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxhc3luY0ZpbGxUaW1lU3RlcHNTdGFydFw+</last-search>
+      <last-search encoding="base64">XDxkZWZhdWx0XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhc3luY0ZpbGxUaW1lU3RlcHNTdGFydFw+</last-pattern>
+      <last-pattern encoding="base64">XDxkZWZhdWx0XD4=</last-pattern>
       <last-replace />
       <last-substitute>;$</last-substitute>
       <last-dir>1</last-dir>
