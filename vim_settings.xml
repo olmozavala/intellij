@@ -101,7 +101,7 @@
         <mark key="." line="73" column="52" />
         <mark key="^" line="73" column="135" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TutorialsByMe/Julia/Examples/Basics/Hello.jl" timestamp="1593457780775">
+      <file name="$USER_HOME$/Dropbox/TutorialsByMe/Julia/Examples/Basics/Hello.jl" timestamp="1593457855862">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="8" column="5" />
         <mark key="]" line="8" column="24" />
@@ -117,17 +117,17 @@
       <file name="/" timestamp="1591808954321">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/webapp/layers/ncWMS_Layers.xml" timestamp="1591202609461">
-        <mark key="'" line="23" column="0" />
-        <mark key="[" line="51" column="56" />
-        <mark key="]" line="51" column="56" />
-        <mark key="." line="51" column="56" />
-      </file>
       <file name="$USER_HOME$/Dropbox/TutorialsByMe/Julia/Examples/Basics/Structures.jl" timestamp="1593456887098">
         <mark key="[" line="12" column="24" />
         <mark key="]" line="12" column="26" />
         <mark key="^" line="12" column="26" />
         <mark key="." line="12" column="25" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/TutorialsByMe/Julia/Examples/Basics/PlotsExamples.jl" timestamp="1593460037988">
+        <mark key="[" line="14" column="11" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/java/org/owgis/business/OpenLayersManager.java" timestamp="1591203492628">
         <mark key="'" line="0" column="0" />
@@ -146,13 +146,6 @@
         <mark key="]" line="316" column="82" />
         <mark key="^" line="316" column="82" />
         <mark key="." line="316" column="81" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/pom.xml" timestamp="1591136865659">
-        <mark key="'" line="17" column="53" />
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="^" line="47" column="4" />
-        <mark key="." line="47" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/webapp/WEB-INF/web.xml" timestamp="1591204889736">
         <mark key="'" line="18" column="51" />
@@ -180,6 +173,9 @@
         <mark key="'" line="211" column="28" />
         <mark key="[" line="195" column="0" />
         <mark key="]" line="265" column="9" />
+      </file>
+      <file name="/Julia REPL" timestamp="1593460169038">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -278,8 +274,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>x</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dXNlX2ludGVsbGlqX2JhY2tlbmQoKQo=</text>
       </register>
       <register name="+" type="4">
         <text encoding="base64">CUBpbmNsdWRlIGJvcmRlci1yYWRpdXMoJGRlZmF1bHQtYm9yZGVyLXJhZGl1cyAtIDIpOwoJYmFja2dyb3VuZC1jb2xvcjogYmxhY2s7</text>
@@ -295,31 +291,31 @@
 hiro.sound</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlX2ludGVsbGlqX2JhY2tlbmQoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YXJyOjpBCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">YXJyOjpBCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlpbnQgbGVuZ3RoID0gc2Vjb25kUGFydC5sZW5ndGgoKTsK</text>
+        <text encoding="base64">YXJyOjpBCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlpbnQgbGVuZ3RoID0gZmlyc3REYXkubGVuZ3RoKCk7Cg==</text>
+        <text encoding="base64">CQlpbnQgbGVuZ3RoID0gc2Vjb25kUGFydC5sZW5ndGgoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkgICAgaG91cisrOwo=</text>
+        <text encoding="base64">CQlpbnQgbGVuZ3RoID0gZmlyc3REYXkubGVuZ3RoKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQkgICAgaG91cisrOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCWludCBsZW5ndGggPSBmaXJzdERheS5sZW5ndGgoKQo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCWludCBsZW5ndGggPSBmaXJzdERheS5sZW5ndGgoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
