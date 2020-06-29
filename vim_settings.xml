@@ -124,12 +124,12 @@
         <mark key="^" line="12" column="26" />
         <mark key="." line="12" column="25" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TutorialsByMe/Julia/Examples/Basics/PlotsExamples.jl" timestamp="1593460989064">
-        <mark key="'" line="16" column="0" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="16" />
-        <mark key="." line="16" column="0" />
-        <mark key="^" line="15" column="14" />
+      <file name="$USER_HOME$/Dropbox/TutorialsByMe/Julia/Examples/Basics/PlotsExamples.jl" timestamp="1593463992290">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="15" column="25" />
+        <mark key="]" line="15" column="39" />
+        <mark key="." line="15" column="38" />
+        <mark key="^" line="15" column="39" />
       </file>
       <file name="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/java/org/owgis/business/OpenLayersManager.java" timestamp="1591203492628">
         <mark key="'" line="0" column="0" />
@@ -273,18 +273,19 @@
       <jump line="81" column="0" filename="$USER_HOME$/Dropbox/TutorialsByMe/Julia/Examples/Basics/Hello.jl" />
       <jump line="0" column="0" filename="$USER_HOME$/Dropbox/TutorialsByMe/Julia/Examples/Basics/Hello.jl" />
       <jump line="16" column="0" filename="$USER_HOME$/Dropbox/TutorialsByMe/Julia/Examples/Basics/PlotsExamples.jl" />
+      <jump line="8" column="0" filename="$USER_HOME$/Dropbox/TutorialsByMe/Julia/Examples/Basics/PlotsExamples.jl" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">eGxhYmVsKCJ4bGFiZWwiKQo=</text>
+      <register name="&quot;" type="4">
+        <text>title</text>
       </register>
       <register name="+" type="4">
         <text encoding="base64">CUBpbmNsdWRlIGJvcmRlci1yYWRpdXMoJGRlZmF1bHQtYm9yZGVyLXJhZGl1cyAtIDIpOwoJYmFja2dyb3VuZC1jb2xvcjogYmxhY2s7</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>title</text>
       </register>
       <register name="/" type="4">
         <text>x</text>
@@ -293,31 +294,34 @@
         <text encoding="base64">eGxhYmVsKCJ4bGFiZWwiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">eGxhYmVsCg==</text>
+        <text encoding="base64">IyAtLS0tIFVzaW5nIHBsb3RseSAtLS0tLS0tLS0tCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cGxvdC5zaG93KCkK</text>
+        <text># using PyCall
+# @pyimport matplotlib.pyplot as plt
+# plt.plot([1, 2, 3], [4, 5, 6])
+# plt.show()</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cGxvdGx5KCkK</text>
+        <text encoding="base64">eGxhYmVsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNlX2ludGVsbGlqX2JhY2tlbmQoKQo=</text>
+        <text encoding="base64">cGxvdC5zaG93KCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cGxvdGx5KCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YXJyOjpBCg==</text>
+        <text encoding="base64">dXNlX2ludGVsbGlqX2JhY2tlbmQoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YXJyOjpBCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlpbnQgbGVuZ3RoID0gc2Vjb25kUGFydC5sZW5ndGgoKTsK</text>
+        <text encoding="base64">YXJyOjpBCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlpbnQgbGVuZ3RoID0gZmlyc3REYXkubGVuZ3RoKCk7Cg==</text>
+        <text encoding="base64">YXJyOjpBCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
