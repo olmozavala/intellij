@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>ncwmstwo</entry>
         <entry>world_cities</entry>
         <entry>datesWithData</entry>
         <entry>datesWith</entry>
@@ -25,6 +24,7 @@
         <entry>;$</entry>
         <entry>,</entry>
         <entry>help</entry>
+        <entry>x</entry>
       </history-search>
       <history-cmd>
         <entry>%s/com\.mapviewer/org\.owgis/g</entry>
@@ -37,6 +37,7 @@
         <entry>vs</entry>
         <entry>s/,/.0,/g</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>s/x/y/g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -123,11 +124,11 @@
         <mark key="^" line="12" column="26" />
         <mark key="." line="12" column="25" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TutorialsByMe/Julia/Examples/Basics/PlotsExamples.jl" timestamp="1593460037988">
-        <mark key="[" line="14" column="11" />
-        <mark key="]" line="15" column="0" />
-        <mark key="^" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/Dropbox/TutorialsByMe/Julia/Examples/Basics/PlotsExamples.jl" timestamp="1593460885406">
+        <mark key="[" line="14" column="9" />
+        <mark key="]" line="14" column="14" />
+        <mark key="." line="14" column="13" />
+        <mark key="^" line="14" column="14" />
       </file>
       <file name="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/java/org/owgis/business/OpenLayersManager.java" timestamp="1591203492628">
         <mark key="'" line="0" column="0" />
@@ -275,13 +276,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">dXNlX2ludGVsbGlqX2JhY2tlbmQoKQo=</text>
+        <text encoding="base64">cGxvdGx5KCkK</text>
       </register>
       <register name="+" type="4">
         <text encoding="base64">CUBpbmNsdWRlIGJvcmRlci1yYWRpdXMoJGRlZmF1bHQtYm9yZGVyLXJhZGl1cyAtIDIpOwoJYmFja2dyb3VuZC1jb2xvcjogYmxhY2s7</text>
       </register>
       <register name="-" type="4">
-        <text>x</text>
+        <text encoding="base64">cGx0IA==</text>
       </register>
       <register name="/" type="4">
         <text>help</text>
@@ -291,34 +292,34 @@
 hiro.sound</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlX2ludGVsbGlqX2JhY2tlbmQoKQo=</text>
+        <text encoding="base64">cGxvdGx5KCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlX2ludGVsbGlqX2JhY2tlbmQoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YXJyOjpBCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">YXJyOjpBCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlpbnQgbGVuZ3RoID0gc2Vjb25kUGFydC5sZW5ndGgoKTsK</text>
+        <text encoding="base64">YXJyOjpBCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlpbnQgbGVuZ3RoID0gZmlyc3REYXkubGVuZ3RoKCk7Cg==</text>
+        <text encoding="base64">CQlpbnQgbGVuZ3RoID0gc2Vjb25kUGFydC5sZW5ndGgoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkgICAgaG91cisrOwo=</text>
+        <text encoding="base64">CQlpbnQgbGVuZ3RoID0gZmlyc3REYXkubGVuZ3RoKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQkgICAgaG91cisrOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCWludCBsZW5ndGggPSBmaXJzdERheS5sZW5ndGgoKQo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz53</text>
       </register>
     </registers>
   </component>
