@@ -124,11 +124,12 @@
         <mark key="^" line="12" column="26" />
         <mark key="." line="12" column="25" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TutorialsByMe/Julia/Examples/Basics/PlotsExamples.jl" timestamp="1593460885406">
-        <mark key="[" line="14" column="9" />
-        <mark key="]" line="14" column="14" />
-        <mark key="." line="14" column="13" />
-        <mark key="^" line="14" column="14" />
+      <file name="$USER_HOME$/Dropbox/TutorialsByMe/Julia/Examples/Basics/PlotsExamples.jl" timestamp="1593460989064">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="16" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="15" column="14" />
       </file>
       <file name="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/java/org/owgis/business/OpenLayersManager.java" timestamp="1591203492628">
         <mark key="'" line="0" column="0" />
@@ -175,7 +176,7 @@
         <mark key="[" line="195" column="0" />
         <mark key="]" line="265" column="9" />
       </file>
-      <file name="/Julia REPL" timestamp="1593460169038">
+      <file name="/Julia REPL" timestamp="1593460997358">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -271,65 +272,65 @@
       <jump line="66" column="8" filename="$USER_HOME$/Dropbox/TutorialsByMe/Julia/Examples/Basics/Hello.jl" />
       <jump line="81" column="0" filename="$USER_HOME$/Dropbox/TutorialsByMe/Julia/Examples/Basics/Hello.jl" />
       <jump line="0" column="0" filename="$USER_HOME$/Dropbox/TutorialsByMe/Julia/Examples/Basics/Hello.jl" />
+      <jump line="16" column="0" filename="$USER_HOME$/Dropbox/TutorialsByMe/Julia/Examples/Basics/PlotsExamples.jl" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">cGxvdGx5KCkK</text>
+        <text encoding="base64">eGxhYmVsKCJ4bGFiZWwiKQo=</text>
       </register>
       <register name="+" type="4">
         <text encoding="base64">CUBpbmNsdWRlIGJvcmRlci1yYWRpdXMoJGRlZmF1bHQtYm9yZGVyLXJhZGl1cyAtIDIpOwoJYmFja2dyb3VuZC1jb2xvcjogYmxhY2s7</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cGx0IA==</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>help</text>
+        <text>x</text>
       </register>
       <register name="0" type="2">
-        <text>hiro = Dog(&quot;Hiroe&quot;, print(&quot;wow!&quot;))
-hiro.sound</text>
+        <text encoding="base64">eGxhYmVsKCJ4bGFiZWwiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cGxvdGx5KCkK</text>
+        <text encoding="base64">eGxhYmVsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlX2ludGVsbGlqX2JhY2tlbmQoKQo=</text>
+        <text encoding="base64">cGxvdC5zaG93KCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cGxvdGx5KCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YXJyOjpBCg==</text>
+        <text encoding="base64">dXNlX2ludGVsbGlqX2JhY2tlbmQoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YXJyOjpBCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlpbnQgbGVuZ3RoID0gc2Vjb25kUGFydC5sZW5ndGgoKTsK</text>
+        <text encoding="base64">YXJyOjpBCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlpbnQgbGVuZ3RoID0gZmlyc3REYXkubGVuZ3RoKCk7Cg==</text>
+        <text encoding="base64">YXJyOjpBCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkgICAgaG91cisrOwo=</text>
+        <text encoding="base64">CQlpbnQgbGVuZ3RoID0gc2Vjb25kUGFydC5sZW5ndGgoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQlpbnQgbGVuZ3RoID0gZmlyc3REYXkubGVuZ3RoKCk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz53</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>help</last-search>
+      <last-search>x</last-search>
       <last-offset />
-      <last-pattern>help</last-pattern>
-      <last-replace>.0,</last-replace>
-      <last-substitute>,</last-substitute>
+      <last-pattern>x</last-pattern>
+      <last-replace>y</last-replace>
+      <last-substitute>x</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
