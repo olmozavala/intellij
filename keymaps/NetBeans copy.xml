@@ -51,7 +51,7 @@
     <keyboard-shortcut first-keystroke="f5" />
   </action>
   <action id="Julia.Tools.REPL.SendSelection">
-    <keyboard-shortcut first-keystroke="ctrl f5" />
+    <keyboard-shortcut first-keystroke="ctrl f6" />
   </action>
   <action id="Maven.ExpandAll">
     <keyboard-shortcut first-keystroke="ctrl add" />
