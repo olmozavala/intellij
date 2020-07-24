@@ -5,10 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>gulf_vel</entry>
-        <entry>stream</entry>
-        <entry>Stream</entry>
-        <entry>ncwmstwo</entry>
         <entry>world_cities</entry>
         <entry>datesWithData</entry>
         <entry>datesWith</entry>
@@ -25,17 +21,24 @@
         <entry encoding="base64">XDxnZXRUaW1lU3RlcHNcPg==</entry>
         <entry>horbar</entry>
         <entry encoding="base64">XDxkZWZhdWx0XD4=</entry>
+        <entry>;$</entry>
+        <entry>,</entry>
+        <entry>help</entry>
+        <entry>x</entry>
       </history-search>
       <history-cmd>
         <entry>%s/com\.mapviewer/org\.owgis/g</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>%s//double/g</entry>
         <entry>qall</entry>
         <entry>%s/;$//gc</entry>
-        <entry>vs</entry>
         <entry>ew</entry>
-        <entry>w</entry>
         <entry>q</entry>
+        <entry>s</entry>
+        <entry>vs</entry>
+        <entry>s/,/.0,/g</entry>
+        <entry encoding="base64">JzwsJz53</entry>
+        <entry>s/x/y/g</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -63,32 +66,15 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1593457770274">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/java/org/owgis/business/NetCDFRequestManager.java" timestamp="1591207100416">
         <mark key="'" line="47" column="25" />
         <mark key="[" line="71" column="47" />
         <mark key="]" line="71" column="48" />
         <mark key="^" line="140" column="96" />
         <mark key="." line="71" column="47" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/webapp/Pages/MapViewer.jsp" timestamp="1591136363057">
-        <mark key="'" line="22" column="40" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="30" />
-        <mark key="." line="7" column="3" />
-        <mark key="^" line="7" column="4" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/webapp/WEB-INF/TLD/htmlStaticFunctions.tld" timestamp="1591134542339">
-        <mark key="'" line="1" column="26" />
-        <mark key="[" line="7" column="18" />
-        <mark key="]" line="7" column="19" />
-        <mark key="^" line="5" column="4" />
-        <mark key="." line="7" column="19" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/webapp/Pages/Error/ErrorPage.jsp" timestamp="1591136466355">
-        <mark key="[" line="8" column="3" />
-        <mark key="]" line="8" column="4" />
-        <mark key="." line="8" column="3" />
-        <mark key="^" line="8" column="4" />
       </file>
       <file name="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/webapp/layers/TestLayers.xml" timestamp="1591203354214">
         <mark key="'" line="31" column="144" />
@@ -97,8 +83,13 @@
         <mark key="." line="12" column="75" />
         <mark key="^" line="12" column="76" />
       </file>
+      <file name="$USER_HOME$/Dropbox/TutorialsByMe/Julia/Examples/Basics/Plots.jl" timestamp="1593457332500">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="13" column="8" />
+        <mark key="^" line="13" column="8" />
+        <mark key="." line="13" column="7" />
+      </file>
       <file name="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/webapp/common/JS/src/ajax/ajax.js" timestamp="1591207264012">
-        <mark key="'" line="84" column="9" />
         <mark key="[" line="84" column="47" />
         <mark key="]" line="85" column="28" />
         <mark key="^" line="85" column="28" />
@@ -111,10 +102,12 @@
         <mark key="." line="73" column="52" />
         <mark key="^" line="73" column="135" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/jstl/jstl/1.2/jstl-1.2.jar!/META-INF/c.tld" timestamp="1591134401396">
-        <mark key="'" line="162" column="8" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="5" column="17" />
+      <file name="$USER_HOME$/Dropbox/TutorialsByMe/Julia/Examples/Basics/Hello.jl" timestamp="1593457855862">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="8" column="5" />
+        <mark key="]" line="8" column="24" />
+        <mark key="." line="8" column="23" />
+        <mark key="^" line="8" column="24" />
       </file>
       <file name="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/java/org/owgis/business/servlets/RedirectServersServlet.java" timestamp="1591205165751">
         <mark key="'" line="0" column="0" />
@@ -122,14 +115,21 @@
         <mark key="]" line="244" column="0" />
         <mark key="." line="244" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/webapp/layers/ncWMS_Layers.xml" timestamp="1591202609461">
-        <mark key="'" line="23" column="0" />
-        <mark key="[" line="51" column="56" />
-        <mark key="]" line="51" column="56" />
-        <mark key="." line="51" column="56" />
-      </file>
       <file name="/" timestamp="1591808954321">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/TutorialsByMe/Julia/Examples/Basics/Structures.jl" timestamp="1593456887098">
+        <mark key="[" line="12" column="24" />
+        <mark key="]" line="12" column="26" />
+        <mark key="^" line="12" column="26" />
+        <mark key="." line="12" column="25" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/TutorialsByMe/Julia/Examples/Basics/PlotsExamples.jl" timestamp="1593463992290">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="15" column="25" />
+        <mark key="]" line="15" column="39" />
+        <mark key="." line="15" column="38" />
+        <mark key="^" line="15" column="39" />
       </file>
       <file name="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/java/org/owgis/business/OpenLayersManager.java" timestamp="1591203492628">
         <mark key="'" line="0" column="0" />
@@ -148,13 +148,6 @@
         <mark key="]" line="316" column="82" />
         <mark key="^" line="316" column="82" />
         <mark key="." line="316" column="81" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/pom.xml" timestamp="1591136865659">
-        <mark key="'" line="17" column="53" />
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="^" line="47" column="4" />
-        <mark key="." line="47" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/webapp/WEB-INF/web.xml" timestamp="1591204889736">
         <mark key="'" line="18" column="51" />
@@ -182,6 +175,9 @@
         <mark key="'" line="211" column="28" />
         <mark key="[" line="195" column="0" />
         <mark key="]" line="265" column="9" />
+      </file>
+      <file name="/Julia REPL" timestamp="1593460997358">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -273,64 +269,72 @@
       <jump line="17" column="13" filename="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/webapp/Pages/Layouts/DraggableWindows/NcWMS/Palettes.jsp" />
       <jump line="58" column="41" filename="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/webapp/common/scss/Palettes.scss" />
       <jump line="42" column="28" filename="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/webapp/common/scss/Palettes.scss" />
+      <jump line="66" column="8" filename="$USER_HOME$/Dropbox/TutorialsByMe/Julia/Examples/Basics/Hello.jl" />
+      <jump line="81" column="0" filename="$USER_HOME$/Dropbox/TutorialsByMe/Julia/Examples/Basics/Hello.jl" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/TutorialsByMe/Julia/Examples/Basics/Hello.jl" />
+      <jump line="16" column="0" filename="$USER_HOME$/Dropbox/TutorialsByMe/Julia/Examples/Basics/PlotsExamples.jl" />
+      <jump line="8" column="0" filename="$USER_HOME$/Dropbox/TutorialsByMe/Julia/Examples/Basics/PlotsExamples.jl" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CUBpbmNsdWRlIGJvcmRlci1yYWRpdXMoJGRlZmF1bHQtYm9yZGVyLXJhZGl1cyAtIDIpOwoJYmFja2dyb3VuZC1jb2xvcjogYmxhY2s7</text>
+        <text>title</text>
       </register>
       <register name="+" type="4">
         <text encoding="base64">CUBpbmNsdWRlIGJvcmRlci1yYWRpdXMoJGRlZmF1bHQtYm9yZGVyLXJhZGl1cyAtIDIpOwoJYmFja2dyb3VuZC1jb2xvcjogYmxhY2s7</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>title</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkZWZhdWx0XD4=</text>
+        <text>x</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">CQl2YXIgYmFyV2lkdGggPSAhbW9iaWxlID8gTWF0aC5jZWlsKCQod2luZG93KS53aWR0aCgpKi40KSA6IE1hdGguY2VpbCgkKHdpbmRvdykud2lkdGgoKSouODUpOwovLwkJdmFyIGJhckhlaWdodCA9IE1hdGguY2VpbChiYXJXaWR0aCouMDMpOwoJCXZhciBiYXJIZWlnaHQgPSAxNTsKCgkJLy8tLS0tLS0gTW9kaWZ5aW5nIHRoZSBzaXplIG9mIHRoZSBkaXYgY29udGFpbmVyCgkJJCgiI2Rpdi1wYWxldHRlLWhvcmJhciIpLmNzcygiV0lEVEgiLGJhcldpZHRoKyJweCIpOwoJCSQoIiNkaXYtcGFsZXR0ZS1ob3JiYXIiKS5jc3MoIkhFSUdIVCIsYmFySGVpZ2h0KyJweCIpOwoKCQkvLy0tLS0tLSBNb2RpZnlpbmcgdGhlIHVybCBvZiB0aGUgY29sb2JhciAtLS0tLS0tLS0tCgkJdmFyIGZpbmFsVXJsID0gcmVwbGFjZVVybFBhcmFtKF9wYWxldHRlVXJsLCJXSURUSCIsYmFyV2lkdGgpOwoJCWZpbmFsVXJsPSByZXBsYWNlVXJsUGFyYW0oZmluYWxVcmwsIkhFSUdIVCIsYmFySGVpZ2h0KTsKCQlmaW5hbFVybD0gcmVwbGFjZVVybFBhcmFtKGZpbmFsVXJsLCJWRVJUSUNBTCIsIkZhbHNlIik7CgkJZmluYWxVcmw9IHJlcGxhY2VVcmxQYXJhbShmaW5hbFVybCwiUEFMRVRURSIsbWFwcGFsZXR0ZSk7CiAgICAgICAgICAgICAgICBpZih0eXBlb2YgbGF5ZXJEZXRhaWxzLm51bUNvbG9yQmFuZHNbMV0gPT0gIm51bWJlciIgKXsgZmluYWxVcmw9IHJlcGxhY2VVcmxQYXJhbShmaW5hbFVybCwiTlVNQ09MT1JCQU5EUyIsbGF5ZXJEZXRhaWxzLm51bUNvbG9yQmFuZHNbMV0pOyB9CgkJLy8gQWRkIHRoZSBtb2RpZmllZCB1cmwgdG8gdGhlIGltZyBvYmplY3QKCgkJdmFyIGltYWdlT2JqID0gbmV3IEltYWdlKCk7CgkJaW1hZ2VPYmouc3JjID0gZmluYWxVcmw7Ci8vCQljb25zb2xlLmxvZyhmaW5hbFVybCk7CgoJCXZhciBjdHggPSAkKCcjY2FudmFzLXBhbGV0dGUtaG9yYmFyJylbMF0uZ2V0Q29udGV4dCgiMmQiKTsKCQkvLy0tLS0tLSBNb2RpZnlpbmcgdGhlIHNpemUgb2YgdGhlIGNhbnZhcyBjb250YWluZXIKCQl2YXIgc3BhY2VGb3JVbml0cyA9IDQwOy8vIFNwYWNlIGJldHdlZW4gdGhlIGJsYWNrIHBhcnQgZm9yIHVuaXRzIGFuZCB0aGUgcmVzdAoJCWN0eC5jYW52YXMud2lkdGggPSBiYXJXaWR0aCtzcGFjZUZvclVuaXRzOwoJCWN0eC5jYW52YXMuaGVpZ2h0ID0gYmFySGVpZ2h0OwoKCQlpbWFnZU9iai5vbmxvYWQgPSBmdW5jdGlvbigpewoJCQkvL2N0eC5nbG9iYWxBbHBoYSA9IDAuNzsKCQkJY3R4LmRyYXdJbWFnZShpbWFnZU9iaixzcGFjZUZvclVuaXRzLDApOwoJCQljdHguZ2xvYmFsQWxwaGEgPSAxOwoJCQkkKCIjZGl2LXBhbGV0dGUtaG9yYmFyIikuc2hvdygpOwoJCQljdHguZmlsbFN0eWxlID0gJyNGRkZGRkYnOyAvL0RlZmluZSBjb2xvciB0byB1c2UKCQkJdmFyIHBpeEJlbGxvd1RleHQgPSAzOy8vIEhvdyBtYW55IHBpeGVscyBiZWxsb3cgdGV4dAoJCQljdHguZm9udD0gKGJhckhlaWdodC1waXhCZWxsb3dUZXh0KSsicHggQXJpYWwiOwoKCQkJLy9Ib3cgbWFueSBudW1iZXJzIGRvIHdlIHdhbnQgaW4gdGhlIGNvbG9yIGJhcgkKCQkJLy8gSXQgaXMgbm90IHBlcmZlY3QgYmVjYXVzZSB0aGUgdGlja3MgZnVuY3Rpb24gbW9kaWZpZXMKCQkJLy8gdGhlIHNpemUgb2YgdGhlIGFycmF5IGRlcGVuZGluZyBpdHMgcGFyYW1ldGVycwoJCQl2YXIgdG90TnVtYmVycyA9IDg7CgkJCXZhciBtaW5WYWwgPSBOdW1iZXIobWluUGFsVmFsKTsKCQkJdmFyIG1heFZhbCA9IE51bWJlcihtYXhQYWxWYWwpOwovLwkJCWNvbnNvbGUubG9nKCItLS0tLSIsbWluVmFsLCItIixtYXhWYWwpOwovLwkJCXZhciB2YWx1ZXMgPSBkMy50aWNrcyhtaW5WYWwsbWF4VmFsLHRvdE51bWJlcnMpOwovLwkJCQoJCQkvL1RoaXMgbGluZWFyIHNjYWxlIGlzIHVzZWQgdG8gb2J0YWluIHRoZSBudW1iZXJzCgkJCS8vIHRoYXQgYXJlIHdyaXR0ZW4gYWJvdmUgdGhlIGNvbG9yIHBhbGV0dGUKCQkJdmFyIGxpblNjYWxlID0gZDMuc2NhbGVMaW5lYXIoKQoJCQkJCS5kb21haW4oW21pblZhbCwgbWF4VmFsXSkKCQkJCQkucmFuZ2UoWzAsIDFdKTsKCgkJCS8vVGhpcyBsaW5lYXIgc2NhbGUgaXMgdXNlZCB0byBvYnRhaW4gdGhlIHBvc2l0aW9ucwoJCQkvLyB3aGVyZSB3ZSB3aWxsIHdyaXRoZSB0aGUgbnVtYmVycyAKCQkJdmFyIGxpblNjYWxlUG9zID0gZDMuc2NhbGVMaW5lYXIoKQoJCQkJCS5kb21haW4oW21pblZhbCwgbWF4VmFsXSkKCQkJCQkucmFuZ2UoWzAsIGJhcldpZHRoXSk7CgoJCQkvLyBPYnRhaW5zIHRoZSBudW1iZXJzIHdlIHdpbGwgd3JpdGUgaW4gdGhlIGNvbG9yIHBhbGV0dGUKCQkJdmFyIG15TnVtYmVycyA9IGxpblNjYWxlLnRpY2tzKHRvdE51bWJlcnMpOwoKCQkJLy9Xcml0ZSB0aGUgdW5pdHMgZmlyc3QKCQkJY3R4LmZpbGxUZXh0KGxheWVyRGV0YWlscy51bml0cywyLE1hdGguY2VpbChiYXJIZWlnaHQtcGl4QmVsbG93VGV4dCkpOwoKCQkJLy9Xcml0ZSB0aGUgcmVzdCBvZiB0aGUgbnVtYmVycyBmcm9tIHRoZSB0aWNrcyBhbmQgdGhlIHBvc2l0aW9ucyAKCQkJbXlOdW1iZXJzLmZvckVhY2goZnVuY3Rpb24obnVtYmVyKXsKCQkJCQkJCS8vY29uc29sZS5sb2cobnVtYmVyKTsKCQkJCQkJCS8vY29uc29sZS5sb2cobGluU2NhbGVQb3MobnVtYmVyKSk7IAoJCQkJCQkJLy8gVGhlIC0xNCBpcyBqdXN0IHRvIG1vdmUgdGhlIGxldHRlcnMgaW4gdGhlIG1pZGRsZQoJCQkJCQkJY3R4LmZpbGxUZXh0KG51bWJlcixsaW5TY2FsZVBvcyhudW1iZXIpK3NwYWNlRm9yVW5pdHMtMTQsTWF0aC5jZWlsKGJhckhlaWdodC1waXhCZWxsb3dUZXh0KSk7CgkJCQkJCQkgfSkgOwoKCQl9Ow==</text>
+      <register name="0" type="2">
+        <text encoding="base64">eGxhYmVsKCJ4bGFiZWwiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlpbnQgbGVuZ3RoID0gc2Vjb25kUGFydC5sZW5ndGgoKTsK</text>
+        <text encoding="base64">IyAtLS0tIFVzaW5nIHBsb3RseSAtLS0tLS0tLS0tCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlpbnQgbGVuZ3RoID0gZmlyc3REYXkubGVuZ3RoKCk7Cg==</text>
+        <text># using PyCall
+# @pyimport matplotlib.pyplot as plt
+# plt.plot([1, 2, 3], [4, 5, 6])
+# plt.show()</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkgICAgaG91cisrOwo=</text>
+        <text encoding="base64">eGxhYmVsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">cGxvdC5zaG93KCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCWludCBsZW5ndGggPSBmaXJzdERheS5sZW5ndGgoKQo=</text>
+        <text encoding="base64">cGxvdGx5KCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlX2ludGVsbGlqX2JhY2tlbmQoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkgICAgCVN5c2VtLnByaW4K</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">YXJyOjpBCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlKU09OT2JqZWN0IGpzb25TdGFydERhdGVzID0gbmV3IEpTT05PYmplY3QoTmV0Q0RGUmVxdWVzdE1hbmFnZXIuZ2V0TGF5ZXJUaW1lU3RlcHNGb3JBbmltYXRpb24obGF5ZXIsIGZpcnN0RGF5LCBsYXN0RGF5KSk7Cg==</text>
+        <text encoding="base64">YXJyOjpBCg==</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxkZWZhdWx0XD4=</last-search>
+      <last-search>x</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkZWZhdWx0XD4=</last-pattern>
-      <last-replace />
-      <last-substitute>;$</last-substitute>
+      <last-pattern>x</last-pattern>
+      <last-replace>y</last-replace>
+      <last-substitute>x</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
