@@ -124,12 +124,12 @@
         <mark key="^" line="12" column="26" />
         <mark key="." line="12" column="25" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TutorialsByMe/Julia/Examples/Basics/PlotsExamples.jl" timestamp="1593463992290">
+      <file name="$USER_HOME$/Dropbox/TutorialsByMe/Julia/Examples/Basics/PlotsExamples.jl" timestamp="1593464463919">
         <mark key="'" line="8" column="0" />
-        <mark key="[" line="15" column="25" />
-        <mark key="]" line="15" column="39" />
-        <mark key="." line="15" column="38" />
-        <mark key="^" line="15" column="39" />
+        <mark key="[" line="14" column="17" />
+        <mark key="]" line="14" column="18" />
+        <mark key="." line="14" column="17" />
+        <mark key="^" line="14" column="18" />
       </file>
       <file name="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS/src/main/java/org/owgis/business/OpenLayersManager.java" timestamp="1591203492628">
         <mark key="'" line="0" column="0" />
@@ -279,13 +279,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>title</text>
+        <text>)</text>
       </register>
       <register name="+" type="4">
         <text encoding="base64">CUBpbmNsdWRlIGJvcmRlci1yYWRpdXMoJGRlZmF1bHQtYm9yZGVyLXJhZGl1cyAtIDIpOwoJYmFja2dyb3VuZC1jb2xvcjogYmxhY2s7</text>
       </register>
       <register name="-" type="4">
-        <text>title</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>x</text>
@@ -294,31 +294,31 @@
         <text encoding="base64">eGxhYmVsKCJ4bGFiZWwiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyAtLS0tIFVzaW5nIHBsb3RseSAtLS0tLS0tLS0tCg==</text>
+        <text encoding="base64">ZGlzcGxheQo=</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">IyAtLS0tIFVzaW5nIHBsb3RseSAtLS0tLS0tLS0tCg==</text>
+      </register>
+      <register name="3" type="2">
         <text># using PyCall
 # @pyimport matplotlib.pyplot as plt
 # plt.plot([1, 2, 3], [4, 5, 6])
 # plt.show()</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">eGxhYmVsCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">cGxvdC5zaG93KCkK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">cGxvdGx5KCkK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">dXNlX2ludGVsbGlqX2JhY2tlbmQoKQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">YXJyOjpBCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">YXJyOjpBCg==</text>
