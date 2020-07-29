@@ -1,4 +1,7 @@
 <keymap version="1" name="NetBeans copy" parent="NetBeans 6.5">
+  <action id="ActivateJuliaSciViewToolWindow">
+    <keyboard-shortcut first-keystroke="f10" />
+  </action>
   <action id="DSM.ZoomIn">
     <keyboard-shortcut first-keystroke="ctrl add" />
   </action>
@@ -46,6 +49,12 @@
   </action>
   <action id="Images.Editor.ZoomIn">
     <keyboard-shortcut first-keystroke="ctrl add" />
+  </action>
+  <action id="Julia.Tools.REPL">
+    <keyboard-shortcut first-keystroke="f5" />
+  </action>
+  <action id="Julia.Tools.REPL.SendSelection">
+    <keyboard-shortcut first-keystroke="ctrl f6" />
   </action>
   <action id="Maven.ExpandAll">
     <keyboard-shortcut first-keystroke="ctrl add" />
