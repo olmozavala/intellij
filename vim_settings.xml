@@ -47,19 +47,22 @@
   <component name="VimKeySettings">
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
-        <text>ctrl pressed CLOSE_BRACKET</text>
+        <text encoding="base64">Y3RybCBwcmVzc2VkIENMT1NFX0JSQUNLRVQ=</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text>ctrl pressed C</text>
+        <text encoding="base64">Y3RybCBwcmVzc2VkIEM=</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text>ctrl pressed W</text>
+        <text encoding="base64">Y3RybCBwcmVzc2VkIFc=</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text>ctrl pressed R</text>
+        <text encoding="base64">Y3RybCBwcmVzc2VkIFI=</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text>ctrl pressed V</text>
+        <text encoding="base64">Y3RybCBwcmVzc2VkIFY=</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text encoding="base64">Y3RybCBwcmVzc2VkIEw=</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
@@ -338,7 +341,7 @@
     </search>
   </component>
   <component name="VimSettings">
-    <state version="6" enabled="true" />
+    <state version="7" enabled="true" />
     <notifications>
       <idea-join enabled="true" />
       <idea-put enabled="false" />
